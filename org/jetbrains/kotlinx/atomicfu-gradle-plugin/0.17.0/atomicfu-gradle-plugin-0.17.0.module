@@ -1,0 +1,95 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu-gradle-plugin",
+    "version": "0.17.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "c5ovncawwzfe5lx5nm6tp7etji"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "atomicfu-transformer",
+          "version": {
+            "requires": "0.17.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-gradle-plugin-0.17.0.jar",
+          "url": "atomicfu-gradle-plugin-0.17.0.jar",
+          "size": 55310,
+          "sha512": "df0799715e377145d0531791859d6fad847566e3317c58f5ff5a3dee9ca57b301d239a311c9b9949ad1978e56ff920058a7f2df59ae591b8a56bfe8aef7b45ca",
+          "sha256": "e9482773f51e4a3f66905c2e10e9f51ac5d9b35f0d072a63f2848c4e6ebea8ed",
+          "sha1": "17f0940e1f652b07a46ead0692b2e00eb23449d7",
+          "md5": "81711dd81418e67f71add7df8a7ba769"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "atomicfu-transformer",
+          "version": {
+            "requires": "0.17.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-gradle-plugin-0.17.0.jar",
+          "url": "atomicfu-gradle-plugin-0.17.0.jar",
+          "size": 55310,
+          "sha512": "df0799715e377145d0531791859d6fad847566e3317c58f5ff5a3dee9ca57b301d239a311c9b9949ad1978e56ff920058a7f2df59ae591b8a56bfe8aef7b45ca",
+          "sha256": "e9482773f51e4a3f66905c2e10e9f51ac5d9b35f0d072a63f2848c4e6ebea8ed",
+          "sha1": "17f0940e1f652b07a46ead0692b2e00eb23449d7",
+          "md5": "81711dd81418e67f71add7df8a7ba769"
+        }
+      ]
+    }
+  ]
+}
