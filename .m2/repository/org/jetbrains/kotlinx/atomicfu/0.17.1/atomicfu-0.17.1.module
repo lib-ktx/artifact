@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "lsh77akh4fc7ljx2b4ap37vv6a"
+      "buildId": "q4pykm7rljhiplkel45im63vji"
     }
   },
   "variants": [
@@ -35,11 +35,11 @@
         {
           "name": "atomicfu-metadata-0.17.1-all.jar",
           "url": "atomicfu-0.17.1-all.jar",
-          "size": 16089,
-          "sha512": "061e30230329ba8c0b3b25ed5ae48987eec3d14960bfd9ddd610cbe274dceb5a8a3b1e6ac15abe96a44113e94e2ab69ba7c42dc56b88ff48794bcbe0cc0cc86a",
-          "sha256": "7e9f7b456a40af57532b4f284cb8e621a777dd64388b98523034437917122d38",
-          "sha1": "b9fcc7e29e0b3215ac880b7564fc02fc97e38815",
-          "md5": "625070597b0d66b2d8c2403e7008f435"
+          "size": 16090,
+          "sha512": "91d394e3f73fa6bf7a20d1f44d5a2be6384a131da43a4dcd353b235d2deba116c07cded16696d1562e5387d2bd32c7374f478ceb75758eb34d0f30ae99d3ba20",
+          "sha256": "a6d7c73201add0d2b81cd06d7d26731da87ccb70d2d46446f7aa291d95d0b446",
+          "sha1": "f7dae2a3cf77863b81dcbbf66efcdf0491a56cbf",
+          "md5": "85e8f29a9a64d9548b2b07182c4ca20a"
         }
       ]
     },
@@ -55,10 +55,10 @@
           "name": "atomicfu-0.17.1.jar",
           "url": "atomicfu-0.17.1.jar",
           "size": 9299,
-          "sha512": "618bc306888e689cee5f0cb3967b87ae862655a3e00c504ddf55ade89caa647665d8dbe5908ed2cafb7591dc107b5d922173ddc84fbcb4e12c3facb9a6ab4814",
-          "sha256": "9890d792321567adc2eeea4b2a5b32740046d34cbdd0bb8477e4209866d1573e",
-          "sha1": "e692cbb8acf60f413585c1ec0ed0441966586c7b",
-          "md5": "83e105a6338f37afaacbb0b153f274e5"
+          "sha512": "8b8c7398ba71fc55117618bd90fde39eda95a052979c5d948aca2ce6d682851530f74c80e2a6860c041e4bfc77adc66b8aee729c6066b85dbef9ef1f34974168",
+          "sha256": "00d3aa8edd86db16c6036cdecff6827c8e4220ae0582f4d705b9382c17e35033",
+          "sha1": "e3753a690b6fc5603ec8a8081c0d870ab1e4dbb1",
+          "md5": "f6fb8cb244a4710b513ebb71cdf0fe0f"
         }
       ]
     },

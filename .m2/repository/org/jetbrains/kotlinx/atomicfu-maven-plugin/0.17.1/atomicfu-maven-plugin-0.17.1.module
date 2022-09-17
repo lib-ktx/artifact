@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "lsh77akh4fc7ljx2b4ap37vv6a"
+      "buildId": "q4pykm7rljhiplkel45im63vji"
     }
   },
   "variants": [
@@ -66,11 +66,11 @@
         {
           "name": "atomicfu-maven-plugin-0.17.1.jar",
           "url": "atomicfu-maven-plugin-0.17.1.jar",
-          "size": 5567,
-          "sha512": "958d7f0ccd3eab14f8590be32a92a89c2056e0e6341ff1a4132bff18d544194deac0e4843be0c7415deaecdf81180f6a2570fcb0ac2ec42e04f0b3974e22ad30",
-          "sha256": "abb219644797da86adfccc763aa443f2db1b761d61f187f348eac40eb2204a7b",
-          "sha1": "90ca813842b4c0418b450c8dfbebf439c3e9a221",
-          "md5": "02e96c81cbbd8806b94b989e256b8c1f"
+          "size": 5570,
+          "sha512": "91f00f474da45f7b02646e227b79f97aa58678dde9d1265d468e30cb0813362847b29bd4e1b351308182c6190f2ae6dd2133183b6e10adb3855003f928cfe542",
+          "sha256": "ae37d6356be6c085ef4f18ce661170fbabd36d0defdd4fb8176f41ada81ceda0",
+          "sha1": "b7fcf7151666692aa63a7fbe724a8ed25456d2a8",
+          "md5": "2ee5485729caf6d0fcc1fe896e50ec82"
         }
       ]
     },
@@ -125,11 +125,11 @@
         {
           "name": "atomicfu-maven-plugin-0.17.1.jar",
           "url": "atomicfu-maven-plugin-0.17.1.jar",
-          "size": 5567,
-          "sha512": "958d7f0ccd3eab14f8590be32a92a89c2056e0e6341ff1a4132bff18d544194deac0e4843be0c7415deaecdf81180f6a2570fcb0ac2ec42e04f0b3974e22ad30",
-          "sha256": "abb219644797da86adfccc763aa443f2db1b761d61f187f348eac40eb2204a7b",
-          "sha1": "90ca813842b4c0418b450c8dfbebf439c3e9a221",
-          "md5": "02e96c81cbbd8806b94b989e256b8c1f"
+          "size": 5570,
+          "sha512": "91f00f474da45f7b02646e227b79f97aa58678dde9d1265d468e30cb0813362847b29bd4e1b351308182c6190f2ae6dd2133183b6e10adb3855003f928cfe542",
+          "sha256": "ae37d6356be6c085ef4f18ce661170fbabd36d0defdd4fb8176f41ada81ceda0",
+          "sha1": "b7fcf7151666692aa63a7fbe724a8ed25456d2a8",
+          "md5": "2ee5485729caf6d0fcc1fe896e50ec82"
         }
       ]
     }
