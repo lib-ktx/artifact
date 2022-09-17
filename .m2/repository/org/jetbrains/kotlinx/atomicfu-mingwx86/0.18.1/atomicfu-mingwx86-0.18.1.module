@@ -1,0 +1,59 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.18.1/atomicfu-0.18.1.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.18.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "qq6ybzj53ngedhfakuj2xebls4"
+    }
+  },
+  "variants": [
+    {
+      "name": "mingwX86ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "mingw_x86",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu.klib",
+          "url": "atomicfu-mingwx86-0.18.1.klib",
+          "size": 47050,
+          "sha512": "e9f0b2b76a21b6772bd9de36de85c4c9fa2c7aee3cc1d7a4e05749149a55a774953a1e219564adce52041e3332ee5c57bea5b5a88a604ac02e10867d843bcfe8",
+          "sha256": "80196e76b479676244f5ede00f3e1f95096f9af470c0a4c6fcacbf11d2e5e8a8",
+          "sha1": "bce605ee38c58fa019e7e1871009d015a24b3a00",
+          "md5": "46596289436063b7e2d6dcb8ab6abe36"
+        },
+        {
+          "name": "atomicfu-cinterop-interop.klib",
+          "url": "atomicfu-mingwx86-0.18.1-cinterop-interop.klib",
+          "size": 7602,
+          "sha512": "2290c2a5c09d094c45d5a99abcf2b06f734fadc13c677a03f5540a2a502af8fd7e14247479dff06e1706f15a60e413cdfcd237f5567f77c3d724965fbcf5344b",
+          "sha256": "b76a8013d1da2df34699eb36a86e80fe9088defef193f6ae62340b6b4803c4d0",
+          "sha1": "47b1c42eb2c0e8e445659fad1866de2f0f935d23",
+          "md5": "bf41c3efea710a4adde09a419d85e31e"
+        }
+      ]
+    }
+  ]
+}

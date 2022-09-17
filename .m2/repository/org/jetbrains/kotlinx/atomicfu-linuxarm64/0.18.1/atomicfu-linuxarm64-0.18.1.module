@@ -1,0 +1,59 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.18.1/atomicfu-0.18.1.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.18.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "qq6ybzj53ngedhfakuj2xebls4"
+    }
+  },
+  "variants": [
+    {
+      "name": "linuxArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "linux_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu.klib",
+          "url": "atomicfu-linuxarm64-0.18.1.klib",
+          "size": 47067,
+          "sha512": "9decb6079db499dd2ef1aaf936ddbdb1920ed81070c84fa3c2d9ed0f6aaaacea0b48d02ae522abe172505cdd22a9d75fac941437a1ae36a5547118e6f91f1717",
+          "sha256": "f158bd8cbe90a829cc0e4a542e83ae43263408ec91ed5906dad3cb4da1d76961",
+          "sha1": "f50031d779fda7628470d4bc845688b852a064c3",
+          "md5": "16a46446bd683a677d11732911a50aff"
+        },
+        {
+          "name": "atomicfu-cinterop-interop.klib",
+          "url": "atomicfu-linuxarm64-0.18.1-cinterop-interop.klib",
+          "size": 8440,
+          "sha512": "4650074cc671641ea1191a4f3b558df3ac3f39bce5b3034e2eb91ecb66d4ee82729b551610880cb87bce580123bb1d67382ea4854647f1329c8de260d28247e1",
+          "sha256": "0042465a31653030aafd6e54a19fc464ae8684285d822379bf128abfcb6e147a",
+          "sha1": "577138d847f9d0ffa7e0038f872f768601b25f3f",
+          "md5": "5298ca430ecee946ddc5492db13c0bbb"
+        }
+      ]
+    }
+  ]
+}
