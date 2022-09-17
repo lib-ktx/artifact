@@ -1,0 +1,148 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.18.0/atomicfu-0.18.0.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.18.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "m32k2zbtevh7lph2gwuaj2rvze"
+    }
+  },
+  "variants": [
+    {
+      "name": "jsLegacyApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "files": [
+        {
+          "name": "atomicfu-jslegacy-0.18.0.jar",
+          "url": "atomicfu-js-0.18.0.jar",
+          "size": 13503,
+          "sha512": "ba6ec4f4ec535e29732af6eeefa352cbb7f2b32b130c5201f16a497fcc06d6c35ceb572aa4c3b980f268eefc177a9e799e41d9dbdc36bc54d525155f44cdd167",
+          "sha256": "a5fcaee1814ba48948dc74661f6e36e64feef3efc88d46d3c4f0dcc44f2f8fda",
+          "sha1": "f044ef1068741f1f1529f80ec522b58af954deca",
+          "md5": "afe34e6f16dd3d777e1d86a00529bac4"
+        }
+      ]
+    },
+    {
+      "name": "jsLegacyRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-jslegacy-0.18.0.jar",
+          "url": "atomicfu-js-0.18.0.jar",
+          "size": 13503,
+          "sha512": "ba6ec4f4ec535e29732af6eeefa352cbb7f2b32b130c5201f16a497fcc06d6c35ceb572aa4c3b980f268eefc177a9e799e41d9dbdc36bc54d525155f44cdd167",
+          "sha256": "a5fcaee1814ba48948dc74661f6e36e64feef3efc88d46d3c4f0dcc44f2f8fda",
+          "sha1": "f044ef1068741f1f1529f80ec522b58af954deca",
+          "md5": "afe34e6f16dd3d777e1d86a00529bac4"
+        }
+      ]
+    },
+    {
+      "name": "jsIrApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-jsir-0.18.0.klib",
+          "url": "atomicfu-js-0.18.0.klib",
+          "size": 33013,
+          "sha512": "8e28a060656cb7dadff3c4f6a1d32883e2c61b1b4b65152d46397c116461d76af472e0c5e5a0fdd26fa8baf885113bd19ba989b667ae3fc3e41ef00aa1099d49",
+          "sha256": "37072daa7336e2e4e087a8a166b59ddab7199c764d896eb4973ceba48a5897fa",
+          "sha1": "a619fa8b39edd94681e7a41e14b8f06cf78c13ad",
+          "md5": "f581e22ba8c1e8b5787d4f45b5f7e459"
+        }
+      ]
+    },
+    {
+      "name": "jsIrRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-jsir-0.18.0.klib",
+          "url": "atomicfu-js-0.18.0.klib",
+          "size": 33013,
+          "sha512": "8e28a060656cb7dadff3c4f6a1d32883e2c61b1b4b65152d46397c116461d76af472e0c5e5a0fdd26fa8baf885113bd19ba989b667ae3fc3e41ef00aa1099d49",
+          "sha256": "37072daa7336e2e4e087a8a166b59ddab7199c764d896eb4973ceba48a5897fa",
+          "sha1": "a619fa8b39edd94681e7a41e14b8f06cf78c13ad",
+          "md5": "f581e22ba8c1e8b5787d4f45b5f7e459"
+        }
+      ]
+    }
+  ]
+}
