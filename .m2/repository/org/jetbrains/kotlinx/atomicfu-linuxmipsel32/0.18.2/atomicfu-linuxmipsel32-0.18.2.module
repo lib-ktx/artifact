@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.18.2/atomicfu-0.18.2.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.18.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "kqrq6iaq6vhwjjibl4y4uah2c4"
+    }
+  },
+  "variants": [
+    {
+      "name": "linuxMipsel32ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "linux_mipsel32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu.klib",
+          "url": "atomicfu-linuxmipsel32-0.18.2.klib",
+          "size": 47089,
+          "sha512": "ceeebe52088338eef597f94e49ce7a359ec698ab42c31b0f8631de8f3a97297bf3791e29249e1e99ab54f27770fd68c01fbbb9779a1047b1d910e246c13a7357",
+          "sha256": "79a5f20575550b06bdfd8edfb04224830d426b582f602200c8ea620f8039b1ca",
+          "sha1": "d2567cb0c4f849a9d810167fed2505af441b9825",
+          "md5": "a1df241b2122bf25448283338b2b9ca7"
+        },
+        {
+          "name": "atomicfu-cinterop-interop.klib",
+          "url": "atomicfu-linuxmipsel32-0.18.2-cinterop-interop.klib",
+          "size": 8460,
+          "sha512": "0eb5a26b47c925c89facd27c758a3e37c67fe61bc678004f4ef45f8212b1ae8650a357952196057c712f1d6b94a76a8cb8cc19d7c1454c4a95c7c6354814776d",
+          "sha256": "46986662a0d6ddaebb75ab63046f2bab73bf92aaa9056b8be25ada4c0ad3a65f",
+          "sha1": "3d2a53a0e37c224ec37ff962c031771489dcb26e",
+          "md5": "ad64bade00935db8ace16e7d22619e76"
+        }
+      ]
+    },
+    {
+      "name": "linuxMipsel32MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "linux_mipsel32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-linuxmipsel32-0.18.2-metadata.jar",
+          "url": "atomicfu-linuxmipsel32-0.18.2-metadata.jar",
+          "size": 261,
+          "sha512": "b4ccd3abd6897e972ec8ad3b81ce368072c0045c131a175c35b4e922874aaeec1d3d06284cb55342a61f966cefbca1b905c3ee1aba7bd44dbe4b64f57d2b5280",
+          "sha256": "0f6baa651100536c090bdd1d321de13d30be2e503eb1a5222e30154bc93fbc87",
+          "sha1": "0d71d3e0beccf21d858d63d2964dd74ec6a40558",
+          "md5": "8f0ce6ff700784da5ae4fadab948d468"
+        }
+      ]
+    }
+  ]
+}

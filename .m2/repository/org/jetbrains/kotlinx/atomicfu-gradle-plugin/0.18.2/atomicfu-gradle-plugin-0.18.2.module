@@ -1,0 +1,85 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu-gradle-plugin",
+    "version": "0.18.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "kqrq6iaq6vhwjjibl4y4uah2c4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "atomicfu-gradle-plugin-0.18.2.jar",
+          "url": "atomicfu-gradle-plugin-0.18.2.jar",
+          "size": 60762,
+          "sha512": "1a4cb3a7d9adfdae4b8bc678e282053e6ca51e98d0c4946de3ef0bf60f491f088cd946e663b732418ce92756bf42ceb9b63b2812efa5c36ba32536c3838655d1",
+          "sha256": "4f33e27b9d258572a580d676a17fbaa86660dacd47fe08bfd64c3a63ed001afd",
+          "sha1": "0d1ab9e325878af4f9b765c91c767a7a378f3e39",
+          "md5": "680a92b6e8d8d9587eac64917197c3c0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "atomicfu-transformer",
+          "version": {
+            "requires": "0.18.2"
+          },
+          "excludes": [
+            {
+              "group": "org.jetbrains.kotlin",
+              "module": "kotlin-stdlib"
+            }
+          ]
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "atomicfu",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-gradle-plugin-0.18.2.jar",
+          "url": "atomicfu-gradle-plugin-0.18.2.jar",
+          "size": 60762,
+          "sha512": "1a4cb3a7d9adfdae4b8bc678e282053e6ca51e98d0c4946de3ef0bf60f491f088cd946e663b732418ce92756bf42ceb9b63b2812efa5c36ba32536c3838655d1",
+          "sha256": "4f33e27b9d258572a580d676a17fbaa86660dacd47fe08bfd64c3a63ed001afd",
+          "sha1": "0d1ab9e325878af4f9b765c91c767a7a378f3e39",
+          "md5": "680a92b6e8d8d9587eac64917197c3c0"
+        }
+      ]
+    }
+  ]
+}
