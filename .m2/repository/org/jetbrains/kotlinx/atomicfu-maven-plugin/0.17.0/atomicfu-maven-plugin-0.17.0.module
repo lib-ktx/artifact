@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "7s7jqs7qfbh2tiqk3af476lire"
+      "buildId": "z3cfa7kkqrc6voe7nl5gicro3i"
     }
   },
   "variants": [
@@ -67,10 +67,10 @@
           "name": "atomicfu-maven-plugin-0.17.0.jar",
           "url": "atomicfu-maven-plugin-0.17.0.jar",
           "size": 5567,
-          "sha512": "497dde79c8b9ecde93c36c94fe0565d10402258b7c02b99944177dc7de8e641587f5f6439d8cac0ffd964657909bc0964c54a80eb2db5d0813f583979956041b",
-          "sha256": "9e8eabac347c2b88e93ce7d5abcf751de265159247c66d9aaca271c56c1c5bfe",
-          "sha1": "619c609a33f38f545a05aabf2d128556df446093",
-          "md5": "5071fb93436ac7be9875aaaca2975045"
+          "sha512": "aff608f77e5e8af02a11d239b19176505ce37bc02a3a92c03703df2a0e4c444eaaa77fa4eacda65ab4d6b37e192367befd041d45754e756c8bd095ca9b0a94ec",
+          "sha256": "be2ff819949bc25c7f5d892b1d5e1c254e2ead42a872f00bd8e25a1af5c08eaa",
+          "sha1": "45ed7ad57a9249572fff980aecd04a0e1b3e5edd",
+          "md5": "a1ccd3a81041850aed3be36209befcc6"
         }
       ]
     },
@@ -126,10 +126,10 @@
           "name": "atomicfu-maven-plugin-0.17.0.jar",
           "url": "atomicfu-maven-plugin-0.17.0.jar",
           "size": 5567,
-          "sha512": "497dde79c8b9ecde93c36c94fe0565d10402258b7c02b99944177dc7de8e641587f5f6439d8cac0ffd964657909bc0964c54a80eb2db5d0813f583979956041b",
-          "sha256": "9e8eabac347c2b88e93ce7d5abcf751de265159247c66d9aaca271c56c1c5bfe",
-          "sha1": "619c609a33f38f545a05aabf2d128556df446093",
-          "md5": "5071fb93436ac7be9875aaaca2975045"
+          "sha512": "aff608f77e5e8af02a11d239b19176505ce37bc02a3a92c03703df2a0e4c444eaaa77fa4eacda65ab4d6b37e192367befd041d45754e756c8bd095ca9b0a94ec",
+          "sha256": "be2ff819949bc25c7f5d892b1d5e1c254e2ead42a872f00bd8e25a1af5c08eaa",
+          "sha1": "45ed7ad57a9249572fff980aecd04a0e1b3e5edd",
+          "md5": "a1ccd3a81041850aed3be36209befcc6"
         }
       ]
     }

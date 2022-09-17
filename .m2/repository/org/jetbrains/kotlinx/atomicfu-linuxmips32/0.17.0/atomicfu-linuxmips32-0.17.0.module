@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "7s7jqs7qfbh2tiqk3af476lire"
+      "buildId": "z3cfa7kkqrc6voe7nl5gicro3i"
     }
   },
   "variants": [
@@ -38,20 +38,20 @@
         {
           "name": "atomicfu.klib",
           "url": "atomicfu-linuxmips32-0.17.0.klib",
-          "size": 47146,
-          "sha512": "1870c1f603a89a5191891534f0b44d132b53ed81dc8fe1cdb85f01f72477692302c88bec77939b686151668b4658c1fbd0e42bcee36041eea348d46bf55c3dbb",
-          "sha256": "64a2786f3e22b51114e27951f0c5f91b4b4afad59b40887a2ace5c256b6e435e",
-          "sha1": "26e6a1d1e4178fc88b63d2c7218874f9bbb44d86",
-          "md5": "e6dbc20b12ae22619f9daad4d6d93950"
+          "size": 47164,
+          "sha512": "ad3439bb2fb26ee3f1f6fb10f220c958f99f9b64ba20cbc75d7737a9f807328db767b4a7ef10e4f0871cb067cf009d0a429c1e16c37c66aae340144b00a2a81d",
+          "sha256": "2d663fb019c175343cb84ee791190826196b4f46ab50b9421cbc7f30d2b0db4f",
+          "sha1": "46c9e73d7ddfd3bb97461d0424a195483f7aa973",
+          "md5": "7dbed9f2b1602bb7f9c1a2131039fa0c"
         },
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-linuxmips32-0.17.0-cinterop-interop.klib",
-          "size": 8431,
-          "sha512": "2dd514bc72e857b281f3120218fd8cdbdb74657d11f3ef153584a1d8f0507b331a811efc528f7f0b5b70ebf899727831d76d7f26857bc0fbf12f40b78f3adb2c",
-          "sha256": "be4d50ad6e533037c694e0803c6e61bc09aab19d619d844e526ddeea355864b3",
-          "sha1": "164aa5311fcb071b7dbe951523874d4304ea3dd3",
-          "md5": "836c5f16f7f9f2ab369d8ac538892eaf"
+          "size": 8432,
+          "sha512": "e04e0da4bb9ac2473008ca2af9dcad630bed924f4a26984dcf04f3562d48670b3e2c292f62d9ac5bc5e60d013382173b8036a86e902c98f12c87bf2f8ce0e377",
+          "sha256": "db62d5253372104da990aac7e4363cb618c477933e43a69c87c0cf7bc2ac80f7",
+          "sha1": "e85d0a900cdafcac7b12d39114fb3446a408c007",
+          "md5": "db10f315ac8a76fc2c6e5464c71ee542"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-linuxmips32-0.17.0-metadata.jar",
           "url": "atomicfu-linuxmips32-0.17.0-metadata.jar",
           "size": 261,
-          "sha512": "fd6cabb5ff6909e36ecbe6c61df833d7f67fc0512bd0bda6033477f2165fb4164af25cb0e4551779ba25330ddc817ec94f9411c4504586e045b0d0a2e916f41b",
-          "sha256": "16b5efe7a1527b45a3dece3609ac5aade9a11f1ac875fa0df099332fefa4fce6",
-          "sha1": "bd95d5c1b725a94e2dda92a82aabff119f7e570f",
-          "md5": "332010db77ff209c2115cc8ae295da20"
+          "sha512": "2eb05ad1c7aa4b40f6c408a60e7f3c79be0793cfd869cdc0287d933b6f08d7e54a571f74a61fd9480579697461b4682e18ce34dbc73c1e2fa52df4b44ebb554d",
+          "sha256": "5654ddb0f6f1dd9535f167fae194f66402d29f6e5193ed958490a03d6097b78c",
+          "sha1": "11d9b2f234895e546426d1125c12398b7af7e619",
+          "md5": "f29042abcc420d7665c8d5f2d26ca7f2"
         }
       ]
     }
