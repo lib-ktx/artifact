@@ -1,0 +1,137 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu-maven-plugin",
+    "version": "0.17.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "dw3tiqlyevdivinkg3udrdtd7q"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.6.20"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "atomicfu-transformer",
+          "version": {
+            "requires": "0.17.3"
+          }
+        },
+        {
+          "group": "org.apache.maven",
+          "module": "maven-core",
+          "version": {
+            "requires": "3.5.3"
+          }
+        },
+        {
+          "group": "org.apache.maven",
+          "module": "maven-plugin-api",
+          "version": {
+            "requires": "3.5.3"
+          }
+        },
+        {
+          "group": "org.apache.maven.plugin-tools",
+          "module": "maven-plugin-annotations",
+          "version": {
+            "requires": "3.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-maven-plugin-0.17.3.jar",
+          "url": "atomicfu-maven-plugin-0.17.3.jar",
+          "size": 5587,
+          "sha512": "560f8c0b6ada44d7f58996bc91558b9fafb41c5c3029f9be24807b7a2dd0b8642a9eeba1b4805a7363f9855e15df4685affffa3722e64d5b8018a13591703612",
+          "sha256": "aac4b8d27aee7f3e21dec9dd38fd3f91de686e5df52bcec2cb37a3de07721f2e",
+          "sha1": "e25efb07734c386b2a085b811abe57f3b620d2c3",
+          "md5": "160f31c183a9e52e8b1b0add71660512"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.6.20"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "atomicfu-transformer",
+          "version": {
+            "requires": "0.17.3"
+          }
+        },
+        {
+          "group": "org.apache.maven",
+          "module": "maven-core",
+          "version": {
+            "requires": "3.5.3"
+          }
+        },
+        {
+          "group": "org.apache.maven",
+          "module": "maven-plugin-api",
+          "version": {
+            "requires": "3.5.3"
+          }
+        },
+        {
+          "group": "org.apache.maven.plugin-tools",
+          "module": "maven-plugin-annotations",
+          "version": {
+            "requires": "3.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-maven-plugin-0.17.3.jar",
+          "url": "atomicfu-maven-plugin-0.17.3.jar",
+          "size": 5587,
+          "sha512": "560f8c0b6ada44d7f58996bc91558b9fafb41c5c3029f9be24807b7a2dd0b8642a9eeba1b4805a7363f9855e15df4685affffa3722e64d5b8018a13591703612",
+          "sha256": "aac4b8d27aee7f3e21dec9dd38fd3f91de686e5df52bcec2cb37a3de07721f2e",
+          "sha1": "e25efb07734c386b2a085b811abe57f3b620d2c3",
+          "md5": "160f31c183a9e52e8b1b0add71660512"
+        }
+      ]
+    }
+  ]
+}

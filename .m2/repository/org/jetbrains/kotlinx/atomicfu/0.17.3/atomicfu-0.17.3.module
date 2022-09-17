@@ -1,0 +1,784 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.17.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "dw3tiqlyevdivinkg3udrdtd7q"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadataApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.6.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-metadata-0.17.3-all.jar",
+          "url": "atomicfu-0.17.3-all.jar",
+          "size": 16125,
+          "sha512": "dc2ec2fd3325f72afd8cdca962a5023a018153b034a614aa2b3795d592070c0b288cc4689e067f4ff9c3e805a8b3232b0543e4bf75778c319fcc0e471cbd5879",
+          "sha256": "ac38d05ee96c1f42f12ed8cf0bd594b07883602c56996dd7a4b3d314da0d36e0",
+          "sha1": "9eb23855eb492e422418d2e1aa33aba8d03eccbf",
+          "md5": "224d97739c567ac833c0e54297e66bde"
+        }
+      ]
+    },
+    {
+      "name": "commonMainMetadataElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "files": [
+        {
+          "name": "atomicfu-0.17.3.jar",
+          "url": "atomicfu-0.17.3.jar",
+          "size": 9299,
+          "sha512": "e214af6d162e0121ad218fd88ed31b61d2f840ab9f6a56bf8e0b701ecb85e285e13d61c8a54e801ad1e93f11e265dc3d155847c2972cd79c30fcc474b77ef3c1",
+          "sha256": "e78e60865e94cfcdc25e0459a75a8a6c22b81ef6cb791050a55e00ca228842a3",
+          "sha1": "c9ead70f085f5d622d54164af86eb85f2a027848",
+          "md5": "504311c4dadd221cdddfacfb0f08cb0c"
+        }
+      ]
+    },
+    {
+      "name": "androidNativeArm32ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "android_arm32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-androidnativearm32/0.17.3/atomicfu-androidnativearm32-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-androidnativearm32",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "androidNativeArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "android_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-androidnativearm64/0.17.3/atomicfu-androidnativearm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-androidnativearm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "androidNativeX64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "android_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-androidnativex64/0.17.3/atomicfu-androidnativex64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-androidnativex64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "androidNativeX86ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "android_x86",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-androidnativex86/0.17.3/atomicfu-androidnativex86-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-androidnativex86",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "iosArm32ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_arm32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-iosarm32/0.17.3/atomicfu-iosarm32-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-iosarm32",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "iosArm32MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_arm32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-iosarm32/0.17.3/atomicfu-iosarm32-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-iosarm32",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "iosArm64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-iosarm64/0.17.3/atomicfu-iosarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-iosarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "iosArm64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-iosarm64/0.17.3/atomicfu-iosarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-iosarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "iosSimulatorArm64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-iossimulatorarm64/0.17.3/atomicfu-iossimulatorarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-iossimulatorarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "iosSimulatorArm64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-iossimulatorarm64/0.17.3/atomicfu-iossimulatorarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-iossimulatorarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "iosX64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-iosx64/0.17.3/atomicfu-iosx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-iosx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "iosX64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-iosx64/0.17.3/atomicfu-iosx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-iosx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "jsLegacyApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "available-at": {
+        "url": "../../atomicfu-js/0.17.3/atomicfu-js-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-js",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "jsLegacyRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "available-at": {
+        "url": "../../atomicfu-js/0.17.3/atomicfu-js-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-js",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "jsIrApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "available-at": {
+        "url": "../../atomicfu-js/0.17.3/atomicfu-js-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-js",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "jsIrRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "available-at": {
+        "url": "../../atomicfu-js/0.17.3/atomicfu-js-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-js",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../atomicfu-jvm/0.17.3/atomicfu-jvm-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-jvm",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../atomicfu-jvm/0.17.3/atomicfu-jvm-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-jvm",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "linuxArm32HfpApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "linux_arm32_hfp",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-linuxarm32hfp/0.17.3/atomicfu-linuxarm32hfp-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-linuxarm32hfp",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "linuxArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "linux_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-linuxarm64/0.17.3/atomicfu-linuxarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-linuxarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "linuxMips32ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "linux_mips32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-linuxmips32/0.17.3/atomicfu-linuxmips32-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-linuxmips32",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "linuxMips32MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "linux_mips32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-linuxmips32/0.17.3/atomicfu-linuxmips32-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-linuxmips32",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "linuxMipsel32ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "linux_mipsel32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-linuxmipsel32/0.17.3/atomicfu-linuxmipsel32-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-linuxmipsel32",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "linuxMipsel32MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "linux_mipsel32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-linuxmipsel32/0.17.3/atomicfu-linuxmipsel32-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-linuxmipsel32",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "linuxX64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "linux_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-linuxx64/0.17.3/atomicfu-linuxx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-linuxx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "macosArm64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "macos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-macosarm64/0.17.3/atomicfu-macosarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-macosarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "macosArm64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "macos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-macosarm64/0.17.3/atomicfu-macosarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-macosarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "macosX64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "macos_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-macosx64/0.17.3/atomicfu-macosx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-macosx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "macosX64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "macos_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-macosx64/0.17.3/atomicfu-macosx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-macosx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "mingwX64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "mingw_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-mingwx64/0.17.3/atomicfu-mingwx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-mingwx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "mingwX86ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "mingw_x86",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-mingwx86/0.17.3/atomicfu-mingwx86-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-mingwx86",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "tvosArm64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "tvos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-tvosarm64/0.17.3/atomicfu-tvosarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-tvosarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "tvosArm64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "tvos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-tvosarm64/0.17.3/atomicfu-tvosarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-tvosarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "tvosSimulatorArm64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "tvos_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-tvossimulatorarm64/0.17.3/atomicfu-tvossimulatorarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-tvossimulatorarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "tvosSimulatorArm64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "tvos_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-tvossimulatorarm64/0.17.3/atomicfu-tvossimulatorarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-tvossimulatorarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "tvosX64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "tvos_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-tvosx64/0.17.3/atomicfu-tvosx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-tvosx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "tvosX64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "tvos_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-tvosx64/0.17.3/atomicfu-tvosx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-tvosx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosArm32ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "watchos_arm32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchosarm32/0.17.3/atomicfu-watchosarm32-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchosarm32",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosArm32MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "watchos_arm32",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchosarm32/0.17.3/atomicfu-watchosarm32-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchosarm32",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosArm64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "watchos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchosarm64/0.17.3/atomicfu-watchosarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchosarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosArm64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "watchos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchosarm64/0.17.3/atomicfu-watchosarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchosarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosSimulatorArm64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "watchos_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchossimulatorarm64/0.17.3/atomicfu-watchossimulatorarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchossimulatorarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosSimulatorArm64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "watchos_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchossimulatorarm64/0.17.3/atomicfu-watchossimulatorarm64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchossimulatorarm64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosX64ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "watchos_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchosx64/0.17.3/atomicfu-watchosx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchosx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosX64MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "watchos_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchosx64/0.17.3/atomicfu-watchosx64-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchosx64",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosX86ApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "watchos_x86",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchosx86/0.17.3/atomicfu-watchosx86-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchosx86",
+        "version": "0.17.3"
+      }
+    },
+    {
+      "name": "watchosX86MetadataElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "watchos_x86",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../atomicfu-watchosx86/0.17.3/atomicfu-watchosx86-0.17.3.module",
+        "group": "org.jetbrains.kotlinx",
+        "module": "atomicfu-watchosx86",
+        "version": "0.17.3"
+      }
+    }
+  ]
+}
