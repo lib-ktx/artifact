@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.17.3/atomicfu-0.17.3.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.17.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "vjsbg7r3qzghjer3t75qrpyry4"
+    }
+  },
+  "variants": [
+    {
+      "name": "macosX64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "macos_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.6.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu.klib",
+          "url": "atomicfu-macosx64-0.17.3.klib",
+          "size": 47085,
+          "sha512": "1ebe09de7ed81a0fd241a4a59389639b58fc134d2bb4b8a6c27106bbc3c69f0e34be1d50cf11e2b6fc7575099e22d82ab8c53062848fb27c2ff276830687c3e4",
+          "sha256": "d5ed0feefb200f652eb16635eb6afcbd9ec1acfb2931b95f99e720ebb648e23a",
+          "sha1": "1b0a873db056084f40287792032837b5ac5c50cc",
+          "md5": "5fac38abaf7a167fd53a18955a89ebf7"
+        },
+        {
+          "name": "atomicfu-cinterop-interop.klib",
+          "url": "atomicfu-macosx64-0.17.3-cinterop-interop.klib",
+          "size": 8119,
+          "sha512": "5d9a8d9442421fb109c3acb624298a45070bad5d7e6f9f4aeba035dd0a158e0a05b180193927f0dcede9c8e161eb5e6de3b4baea989f6e73e6d056e91dbff2ae",
+          "sha256": "31290ee13750111f429e034362b6568e8c61a510ad4a3b6cb2d50c376eb7ee86",
+          "sha1": "99f0104acb4bf4f4a6b27eed22d727409a409982",
+          "md5": "7b5bdc14db45a74d8f4aac493e3db650"
+        }
+      ]
+    },
+    {
+      "name": "macosX64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "macos_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.6.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-macosx64-0.17.3-metadata.jar",
+          "url": "atomicfu-macosx64-0.17.3-metadata.jar",
+          "size": 261,
+          "sha512": "38cf15f187a8ce24f4fc72b58dd2b8b36dc251590916948a9fcd61612a1327fb137e7ed68f0bb04bed878d26e6b55541eac10440e70911935cab61c2d08f1e97",
+          "sha256": "b3f3dea266ad067639cb24da4b3891f64acb966a9c17fbbf79d3ccbbd8db01cb",
+          "sha1": "e391c60745ec1c72b981291bafdbb56f02e5aeb5",
+          "md5": "2c56068e266a928e58e9ecf47075d734"
+        }
+      ]
+    }
+  ]
+}
