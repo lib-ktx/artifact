@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "h265nzqjtfdcfp6tjuc32xjt5u"
+      "buildId": "xsslfveravdtfa3bxs3tjc3bjq"
     }
   },
   "variants": [
@@ -48,10 +48,10 @@
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-tvosarm64-0.17.0-cinterop-interop.klib",
           "size": 7996,
-          "sha512": "d480ad0a13dfc7bae90e9083b47be5fbd228df62344ed0ce06dad529249657745add8b29abd6161f35653265d86e92552cdee25e2ae913f186d7e462a1cc3bdd",
-          "sha256": "1d382d05c678aa63d339cb0ef75951f9d1aa10eac247d5278b6c855692582d99",
-          "sha1": "92fdeee8a79a3872f8230a7e07e9fd59b4ea65a5",
-          "md5": "b9773536694f4b6986ab0a19e38eecf3"
+          "sha512": "1567dc82991beea0ac4ba81d5f95ce19da8597584bf4a17e9edfe6324c0d706306a65c2e0b2a753358a04e5936ce0c4dd6c0c689c7e377ec6ba21d805fbb9e25",
+          "sha256": "7295cbd4a97e62206fea1dec2726cca58342601adb64c3963ddfcb1cbdb1f91b",
+          "sha1": "e4031977c5feffee3abe6f04a22997ac6aa1c78a",
+          "md5": "10d1072914a1c436742cb3b137465b14"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-tvosarm64-0.17.0-metadata.jar",
           "url": "atomicfu-tvosarm64-0.17.0-metadata.jar",
           "size": 261,
-          "sha512": "f52b9021bc20aaf77951c5df049b13c813859755bf968a66a1f2eb9dc9805559069b160784bd3a3a38000ebd47d4f3ec56f2bf2b7db0efeed005190963e3d819",
-          "sha256": "b33aef924910875414a689e0c0c478f6f790cbccc5f246dcfe57221b586bc5e0",
-          "sha1": "8f63caa3a31332da690b4428915bc75ed3c9373c",
-          "md5": "ec8af32a0508b457047fff96f8239ee7"
+          "sha512": "fb9ff0849f6c19f2b3e96f37795685db991c0274adcfe871e4a4fd8332e2cec35ae8ceebaea1388bc23d66662f636285b182fa63ddf79a2fe4746983e4383eb4",
+          "sha256": "99fd45bcf4368297de557f363ace6f79269182ae4c767151a0c6b619e2845571",
+          "sha1": "a139aeacd982166e0c96c932bc83da5482a053d7",
+          "md5": "c032669fbedcaf854186e6106285446b"
         }
       ]
     }

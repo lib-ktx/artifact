@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "h265nzqjtfdcfp6tjuc32xjt5u"
+      "buildId": "xsslfveravdtfa3bxs3tjc3bjq"
     }
   },
   "variants": [
@@ -47,11 +47,11 @@
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-tvossimulatorarm64-0.17.0-cinterop-interop.klib",
-          "size": 8119,
-          "sha512": "0e79acab49697c9e561de82f31b02e890419a0a20b1020762fb255eac07ba6a7d0f5af63788496d79b57b0d69da7ddb3252015f4629c9897f541d04d44a1daf8",
-          "sha256": "7a69922052c57542e7c4408a89d6d6b2939a32f5e24dba1c96f59ea61f224c6b",
-          "sha1": "ef4de2fc899f9a98557c49611907f89a06b3d3c1",
-          "md5": "2aab9d9a3b48715f839c823b67ae51c9"
+          "size": 8122,
+          "sha512": "dede5c6d0aa4029ac55b0b221c92f839503498c4369d6c12cf8d3382a763a0444f4b3ac3715eb08620d1db8d452a8281b2c19458a0c447d68cac0d9852c13c61",
+          "sha256": "511d2d8bd4d8b2da217e5ac75da6cf11a656ebfd4f4e48f382e9063c9a9051fe",
+          "sha1": "56d16be9b3a0f788a050411cea8ad0b019dd5ca1",
+          "md5": "1b33b72c37d1e52b1e0a524d50f4e47e"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-tvossimulatorarm64-0.17.0-metadata.jar",
           "url": "atomicfu-tvossimulatorarm64-0.17.0-metadata.jar",
           "size": 261,
-          "sha512": "85716b8127ef8867c1b40c3880b5cc997ca01b7e48e81d6f57444bb396279bff781974c56ba320768fb22121ea10c6d7b4f8055f921a08c4461f2903523a245e",
-          "sha256": "16d00a8b8ba13a3a87b6d33ee9efdccd2516471461950e1805b2ec2c8dfeaffc",
-          "sha1": "9bee6b6b2837d28f3da3e782413f0e399216a225",
-          "md5": "345dfc1051f17307244edde9c4946c85"
+          "sha512": "3679637836a5b087a4a86d3afde424b4ff87d092e0c57d6f3fcc3630649a9eda30142521e98cbf61287909e943ef6e0fc581dbd54a00236f0bb23eba81f61376",
+          "sha256": "64d5dcdd9b00a850e5d84db1857a6fae9f043b0980104291d67a3d4ff667ef66",
+          "sha1": "cf2c7f0a7e179c3ed1779c77f5edfa06733aaef1",
+          "md5": "f61f125eabb5e649472be8a1c1859830"
         }
       ]
     }

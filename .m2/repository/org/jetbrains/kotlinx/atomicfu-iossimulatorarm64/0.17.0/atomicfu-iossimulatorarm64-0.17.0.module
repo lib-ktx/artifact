@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "h265nzqjtfdcfp6tjuc32xjt5u"
+      "buildId": "xsslfveravdtfa3bxs3tjc3bjq"
     }
   },
   "variants": [
@@ -47,11 +47,11 @@
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-iossimulatorarm64-0.17.0-cinterop-interop.klib",
-          "size": 8110,
-          "sha512": "f549a61c976dfa838f7ca7a5df89de2b17d1154763c39b84883b3b99e05cde248ed9da154402723bf42aba5593473319e9d0bbc2b832a40f145a71172c219be2",
-          "sha256": "04ffe46c40e0ee9611b2c29197ef30c02b3a434dbdb44288ed58e867a0e91c2e",
-          "sha1": "ca0d4ec9573364f0fa51a40beb4f0df4a0627835",
-          "md5": "2358ceed85ac4eafefb218c9a4be255c"
+          "size": 8107,
+          "sha512": "c32c26e2ecc2c9081bce4bbc74d1e24cd0139ee434fb4db0be187f1299a9d01cf1b7ada59a2a92c9310afc57d52669da996723a493c798e84163704601fb4f5b",
+          "sha256": "69ca189443a05eaaf0dd5a2781d4dca3184a2f61ccc2711f902d74ed7252f3d3",
+          "sha1": "8f9a03791f2cc2cf4a48b5884523c00a99754cab",
+          "md5": "ad9f6a682f3ea531e9659ff343030481"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-iossimulatorarm64-0.17.0-metadata.jar",
           "url": "atomicfu-iossimulatorarm64-0.17.0-metadata.jar",
           "size": 261,
-          "sha512": "b925c45b0974b656ef775a992d911c7305a5bdced45d2a2ad10d8d89f02a4ad35ee33734bb38760fd1e0760573af1833318509635a2439eefe9cb3f6d42fa2ee",
-          "sha256": "8eb1cb9d07378e896081697fa0e750d3aa4078b61a461e3a931e82bdaf900198",
-          "sha1": "7e87d1fc70f4520271cb91162580915052eaa717",
-          "md5": "4b0df5344b7717e7b870179104319d2a"
+          "sha512": "6e5a689f6b482fc00f894ce8555d77d1a450fea1b0c9fd84b9421f9606a15500cb1ffaf41731452fa885c5698c5cb61401257b07fb70e21535b08ce95e494263",
+          "sha256": "d3dbf32d54baec9711e8e28b72e0edcc12cffc644e1bcb528c929c515312b096",
+          "sha1": "60d5a28693e550232cc27331c20bf1b0328c35fd",
+          "md5": "53013a3959d6f582df0f8621d5b40c5c"
         }
       ]
     }

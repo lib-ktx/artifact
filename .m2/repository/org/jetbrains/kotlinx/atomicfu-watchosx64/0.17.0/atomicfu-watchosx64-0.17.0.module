@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "h265nzqjtfdcfp6tjuc32xjt5u"
+      "buildId": "xsslfveravdtfa3bxs3tjc3bjq"
     }
   },
   "variants": [
@@ -47,11 +47,11 @@
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-watchosx64-0.17.0-cinterop-interop.klib",
-          "size": 8020,
-          "sha512": "37021ca4790b2d49cd6f516c3f81a0b9ac72bb71cc03f0283812d37f8a78f3b3445e3f30bce946a43eaadd0a60e0b03dbf4f351a0b414afd8da67fb9e1f2c935",
-          "sha256": "688f85c8c6a136a5aea6331ed756b75ec97cad3e697b364af2cce3e6799b996c",
-          "sha1": "48de1688a7880471c5b3ca4ed625c2b10fb33470",
-          "md5": "e77d7e7e77a7ee773bdb4fca25b4f7c7"
+          "size": 8024,
+          "sha512": "617065264d17e816e70c7b2722231922c3c50594a7674970f84439e82361e5002644930da8e2ffa4b143ad33ce1cd72df801245be76483998eb15a5319887444",
+          "sha256": "07859e4df082f65c77048f703be7236975e05342c9d3b63cdecb8bdc75b93539",
+          "sha1": "80d8dc54c5e702f3db6f5a0cdfc9892462771af0",
+          "md5": "e8f021eac51132c1ab401d5c4b51797b"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-watchosx64-0.17.0-metadata.jar",
           "url": "atomicfu-watchosx64-0.17.0-metadata.jar",
           "size": 261,
-          "sha512": "f9c30631db77798e41e70dc5be85dc452b6fd05120a5eced8e9a94f22eee7ed01e66c24d925aa1d2aeb2efac4740a93085c844c7c1cefdd0a08a26a2c5e3af82",
-          "sha256": "7a1a363ccc296588783b323bd9424e661edc6fa985f0131718daa42f689af416",
-          "sha1": "b1bcdcfa1d0206964daf7200fed033c51b911270",
-          "md5": "1662415f441ec1ad068dea3e5cf9c89e"
+          "sha512": "d527c22b6f71c5d02df4cc2416b275136024e7db44b52b59d6a1dc24da20073a1032f431bc50881bcf44ecc7b2a1aa4fb9bb18a0ce4884c2bc4fa910a958bca7",
+          "sha256": "553a0ef4ccd2f35a9cea1ad4b7a2e3536b8919d2f5004a2f6c024ad7247eb37e",
+          "sha1": "8d1055e8fba05d7434854d74714fd653d6aaa6cc",
+          "md5": "bb97851252425edb6b898e120e62edc5"
         }
       ]
     }

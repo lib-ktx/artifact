@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "h265nzqjtfdcfp6tjuc32xjt5u"
+      "buildId": "xsslfveravdtfa3bxs3tjc3bjq"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "atomicfu-jvm-0.17.0.jar",
           "url": "atomicfu-jvm-0.17.0.jar",
           "size": 36304,
-          "sha512": "e9042e3142de70e917a8d0b572fb2ceb70fcc54e65d3de251537cf24f199cc45aa21ba7288f3a5442f08ffe6ade8608ce3b38cd7791d2a71d4317860690838b1",
-          "sha256": "a3887c7f16527550f4838aa99cf79aaf8b52967ba1eafa9f97aa51dd078d132e",
-          "sha1": "3bfb0511b5b51c13f7ddc76241add00279864365",
-          "md5": "9d055e96ae791236e82fdb02d898b4a1"
+          "sha512": "b459f412ca26a6a23a409d30e02c2aa47bd606a81fd1899b050bf2cbfb9780ba7be3a2e157a388d9b29734956d1108236e8a33089e4df1e617e1f4c0d8ac674e",
+          "sha256": "ae8bf01cc02c0f5c54dc9f342cb8887a137e5cdd94defdf197c2bd727490a697",
+          "sha1": "813f9a50a25d1acc42e3e4a7683676db95d0c869",
+          "md5": "54859df554590c2a41492f1620419917"
         }
       ]
     },
@@ -47,14 +47,14 @@
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-common",
+          "module": "kotlin-stdlib",
           "version": {
             "requires": "1.6.0"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-common",
           "version": {
             "requires": "1.6.0"
           }
@@ -65,10 +65,10 @@
           "name": "atomicfu-jvm-0.17.0.jar",
           "url": "atomicfu-jvm-0.17.0.jar",
           "size": 36304,
-          "sha512": "e9042e3142de70e917a8d0b572fb2ceb70fcc54e65d3de251537cf24f199cc45aa21ba7288f3a5442f08ffe6ade8608ce3b38cd7791d2a71d4317860690838b1",
-          "sha256": "a3887c7f16527550f4838aa99cf79aaf8b52967ba1eafa9f97aa51dd078d132e",
-          "sha1": "3bfb0511b5b51c13f7ddc76241add00279864365",
-          "md5": "9d055e96ae791236e82fdb02d898b4a1"
+          "sha512": "b459f412ca26a6a23a409d30e02c2aa47bd606a81fd1899b050bf2cbfb9780ba7be3a2e157a388d9b29734956d1108236e8a33089e4df1e617e1f4c0d8ac674e",
+          "sha256": "ae8bf01cc02c0f5c54dc9f342cb8887a137e5cdd94defdf197c2bd727490a697",
+          "sha1": "813f9a50a25d1acc42e3e4a7683676db95d0c869",
+          "md5": "54859df554590c2a41492f1620419917"
         }
       ]
     }
