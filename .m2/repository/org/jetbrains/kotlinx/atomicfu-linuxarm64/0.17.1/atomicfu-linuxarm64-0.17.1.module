@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "g6teckn6enfpnha66ne6xil55m"
+      "buildId": "irlnjrw7v5caphqrwxbpholgge"
     }
   },
   "variants": [
@@ -48,10 +48,10 @@
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-linuxarm64-0.17.1-cinterop-interop.klib",
           "size": 8556,
-          "sha512": "73bff83f6ea86c35e0bfae7979b8d4461bd1934c9406db3ebb76fb43267ab114dbc1c74915ea37c7698f09b4d3ba505f8f7272cae8524c3bb9fbfb6b1776d655",
-          "sha256": "1e72acb2fa4375b1a280e8e6b3e65238cb4f24797ceedc8e97e619459758c0e8",
-          "sha1": "2efef2e95056f3f07710b7c4f00c53cce583375a",
-          "md5": "cb5282b534d0b86f29364ce43b2e91a2"
+          "sha512": "accf20ea8f3600eef019ff0e6647b8a2c7991ad77323b86a959cffb5877875130a36fc3c05e4a3bf26c1636c38e3806629d54c9e9738be2862cb84df9b25ab9f",
+          "sha256": "207d7365c3e9f9c34e3a787de1b7b423b3fd3b5a1d41c054aec0814f31614b54",
+          "sha1": "53ff64fa21bd933a7972f528623629d95d0da3f6",
+          "md5": "0350992da7a279608f65c7e3abd177e8"
         }
       ]
     }

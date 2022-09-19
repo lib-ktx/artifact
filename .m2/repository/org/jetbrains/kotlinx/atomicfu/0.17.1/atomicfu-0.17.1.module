@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "g6teckn6enfpnha66ne6xil55m"
+      "buildId": "irlnjrw7v5caphqrwxbpholgge"
     }
   },
   "variants": [
@@ -36,10 +36,10 @@
           "name": "atomicfu-metadata-0.17.1-all.jar",
           "url": "atomicfu-0.17.1-all.jar",
           "size": 16092,
-          "sha512": "ec029828a493b5db6be189c46dde6e22cd8dc1e0f43f229c471ccf9337b71dbd61944513eb11cc9b1d0b66a1ca7fff643dd286a66f22879b74abfed6afb5cd10",
-          "sha256": "d9318454dfd44243199a71ad8926ba9e2883effaf0fa1c92697633522f487673",
-          "sha1": "631a6b4a41b976f6a8fafa336e47aa97e4518532",
-          "md5": "9e812cdc165df08848926378605d46cd"
+          "sha512": "56ea8f3a1cd58bee7fe4cf70f93567cc348fc1655381c85518a7a8f0cd896670b5a5def24a17dacac0f6aab65f9a63a728353bf560bb5c74b07d848068938a88",
+          "sha256": "1e41ef90b8bfa4b61127215255da324eff1034a87b66a0a3e184c652502af04c",
+          "sha1": "35ed2bf59679c0f1edcf8161805dc28bfbd8aa8d",
+          "md5": "23e1c1db975d45a51154b6816fb538af"
         }
       ]
     },
@@ -55,10 +55,10 @@
           "name": "atomicfu-0.17.1.jar",
           "url": "atomicfu-0.17.1.jar",
           "size": 9299,
-          "sha512": "6114e29d60b0bb75fa09cb5da833a4f566307bde4b012d8380394c7c7fc721d81888af83536d5290facc9563f29c840714faebf19b0a583bc729c2e0ca578eb9",
-          "sha256": "3d4331a4a9e7c92674d608e4beb7f61b15a51568acb95097aacf9d8ffb58a855",
-          "sha1": "d12a56daca26ec28bf8e74c035354a429eff28fa",
-          "md5": "b30cdbb0d47772ef2a77586dd34d137f"
+          "sha512": "0e93778a183783dbdd6a19c5f97c630fddeac6543acc1aea7a62791c9818ddfffe1a897de5e5f5596eb087ec65572880abafaf08bbdd89ef08549caf752cf501",
+          "sha256": "3cc0e4c827bd120e6c74d4ffcb1b98d83b23b9af6181226afe7fc6afe7d02e28",
+          "sha1": "0eb913c8b77f7d6d88ac0e5eaae9bdba01279aa1",
+          "md5": "2fcf6260f1efaa09b493914c17b2de1d"
         }
       ]
     },

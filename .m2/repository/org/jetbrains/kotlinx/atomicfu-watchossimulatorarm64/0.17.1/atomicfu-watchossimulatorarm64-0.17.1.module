@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "g6teckn6enfpnha66ne6xil55m"
+      "buildId": "irlnjrw7v5caphqrwxbpholgge"
     }
   },
   "variants": [
@@ -47,11 +47,11 @@
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-watchossimulatorarm64-0.17.1-cinterop-interop.klib",
-          "size": 8163,
-          "sha512": "4748c2b30a0101362690ad9aefecef14fc74d5cb3cca17e5420cac94b1ce80b123d6a550365a4f2e08292373373be6428a3aba908a706a1e19e98ae755c6f9dc",
-          "sha256": "2e2c26e98a66c8586d07f033ea97b3fe675f56660a52adc6c835bfad8265e6a5",
-          "sha1": "0d2fe8202acd70dd9de13a46d13e24e1e5bf84e9",
-          "md5": "7c6e947faa5577ec1906cb2cc86a538e"
+          "size": 8164,
+          "sha512": "bc2fc806a8bdf5edc87524a233bbc5a801749255ed89fb931134e2526462d85b7634072203b22acf8afb9e2a439bbf2fc90c9b19d3f2242d8be210053445c24f",
+          "sha256": "28827e850485eabc3661f4ec9c6fa892310e6dc68b6015a2e35927581750f2e4",
+          "sha1": "1fa9ecdfaf5e45fda1e8f345400e983b504737cb",
+          "md5": "15b732b4bb7a6eff2c9a4a3179432238"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-watchossimulatorarm64-0.17.1-metadata.jar",
           "url": "atomicfu-watchossimulatorarm64-0.17.1-metadata.jar",
           "size": 261,
-          "sha512": "23f5fdd452acce193ecae98d7e5380a997c83335b51a102d73fdffefc98069ac90747b0066026cbf29b622f8b761e255660ddec76f1f88ab4c129eb038da0f7a",
-          "sha256": "a448a85f1cd9a912cbb6addaaa5b0fb2721fb60a61f30482e2ef89eb36a16606",
-          "sha1": "070543571829e8392e33486cce7f6a6f5102b984",
-          "md5": "c27d45c6d395a76d6b24c739b12d40af"
+          "sha512": "9c02112e61f58770efc878b927e9bfdb9db01cf2c69000e7d029088c7dd67081014a95185909af04c12a78abb0589b92b20cab1f0cb5309782faf50e10f022c0",
+          "sha256": "b44c42ea0ecd536a1927f2ca179da5ac2b0c2651471c0daa6b28f5c6abaa1697",
+          "sha1": "2f0ac4203bb2a7b53425fefb4d04b65176b6982b",
+          "md5": "5ca106965dc9b8ecb1966946bf838f84"
         }
       ]
     }

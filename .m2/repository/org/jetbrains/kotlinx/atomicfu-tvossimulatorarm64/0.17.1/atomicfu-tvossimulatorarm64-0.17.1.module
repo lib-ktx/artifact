@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "g6teckn6enfpnha66ne6xil55m"
+      "buildId": "irlnjrw7v5caphqrwxbpholgge"
     }
   },
   "variants": [
@@ -47,11 +47,11 @@
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-tvossimulatorarm64-0.17.1-cinterop-interop.klib",
-          "size": 8123,
-          "sha512": "28eeb8cb240df821879cfa7b42312c964df6b60cd8d023c878c7dcd22ca3a1f9feddfe936a30cc820021b88655825643e2d9bcf6eab47b8b4f5b6e3594ae4290",
-          "sha256": "3500f4d7a662acc43c07b58eccbbfb673965272e78fccba1462937ea692127cd",
-          "sha1": "36dfd966d53d2e5e80c4bda80f76f31b83b304eb",
-          "md5": "ef6ca704a51fcd016b67048e6bc01db8"
+          "size": 8124,
+          "sha512": "ce558d2b070a4827d6529e545e510c44dbfe9fdb6dfb52cf0fd56497fa305928ea1695d4e86cd5367d2271bf531018221e0a3351f56877af8f2c9ac74da2459d",
+          "sha256": "6389e0fb72dd077c7b4b5c52e09db11fb938ba5829440bd82517203769b3af6b",
+          "sha1": "d28adad680fc73ef704ccfaf481e4ce0a10072e6",
+          "md5": "2abb566e9739db75dcae0d443a78facf"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-tvossimulatorarm64-0.17.1-metadata.jar",
           "url": "atomicfu-tvossimulatorarm64-0.17.1-metadata.jar",
           "size": 261,
-          "sha512": "8e9af287f7f232e294cea4552ddc8b12c1c5e56612f3449d521ce004609f16f5a92ea26a383841209e50b8fd7cf77f1f52f6f1d801980e1ef0bac8fdd925e6f2",
-          "sha256": "9f83e04a9bd327f18448e48e5b78ad91d518439bbac935d8eca6e2e1eb9babea",
-          "sha1": "54d6ecc2711c4d9c405b687f17b4199a55cd0522",
-          "md5": "b09cc683a1c1fee04b652afc6b55530a"
+          "sha512": "f66cb0feaf5cb22f5546eb511d7d9cc95f5d03844913c587a7748d50dc476047e82cc40280d39aa0992c0ad66fd4ae45541ca6eacf8e234f5e507b0d7875b4d9",
+          "sha256": "3713f43129d4a9d5b50c664e36df82d9c024df16efd7f1a1111d6af122547e40",
+          "sha1": "3e86888011ddd2cb54593fd7678be169808d4b8c",
+          "md5": "76cce3e8625b87cb990ac577be851e72"
         }
       ]
     }

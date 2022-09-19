@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "g6teckn6enfpnha66ne6xil55m"
+      "buildId": "irlnjrw7v5caphqrwxbpholgge"
     }
   },
   "variants": [
@@ -48,10 +48,10 @@
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-iosx64-0.17.1-cinterop-interop.klib",
           "size": 7970,
-          "sha512": "97f4dbf5104ab6806fc6470a432ddd0e0a0e2fda663993869d25c6fd39019de9d317b9e7918f60dc4125488a655eaab7b785d232c7e5dac993a154a4e24aed66",
-          "sha256": "a11777808504a91d4c52affc89207599a473c6379f2864689573d8d4aa552b97",
-          "sha1": "26c85fddfdfdb9b5645097c266eb2587e5b2f7b0",
-          "md5": "4f973d4f1d64baa6a3a7cd2925c03a6d"
+          "sha512": "b4ee850930405d627cc70538033d4ba8da602011f0bcf47659b9488914ff031d014bba31405d6da7aa86005013e277ef7506fe7e9de602d9405baf746435aee8",
+          "sha256": "e5dc1427d980f4ff6fdda311f60f0eb2bc45f981a603667298055837b49e4d79",
+          "sha1": "1e982675dabedbfe4d097a9404bc01e4824f75a3",
+          "md5": "320ed79327edf658547568b2d4f076d3"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-iosx64-0.17.1-metadata.jar",
           "url": "atomicfu-iosx64-0.17.1-metadata.jar",
           "size": 261,
-          "sha512": "cd80fe299738bf0a1c5b07706be656daacc0a7616e6fcfb71af3d0ae4cfcd6cf093cad48162f03547df317c066c45d8213928e15645973c5a7cd9c19814460c3",
-          "sha256": "93b222dc13bf2273b0d2634ffd45ca868d3292dbffbbf2e0530e4c0875161d2d",
-          "sha1": "40240ed51b488221055c04814d398ce9efb6cf1c",
-          "md5": "5ab1e81ba849f1c557154928554cb229"
+          "sha512": "8f02231ed8780b1b7096e2099e0dff97904b42375ccab6d7ad7adbade433e679a0519bffbf1ab558380e1657afe91705f590b55636b984cf999b5bc4781abd4e",
+          "sha256": "3ce3fc5b70e270afb5d9efe075028ccfb41287cc8b3a989bb2e62418f9e6f466",
+          "sha1": "4fdb8656489aa302874e6dad746ae0acc8ed1f5b",
+          "md5": "d646e42f7698c88fa831c1139cc6b528"
         }
       ]
     }

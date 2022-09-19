@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "g6teckn6enfpnha66ne6xil55m"
+      "buildId": "irlnjrw7v5caphqrwxbpholgge"
     }
   },
   "variants": [
@@ -47,11 +47,11 @@
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-iossimulatorarm64-0.17.1-cinterop-interop.klib",
-          "size": 8109,
-          "sha512": "190b2477ab2e64dc2173a615921d626ceebd3ab85cebd205c681da3c05b810dff9e7edf9be380dc6547fce2b213fbd165da2bc8e16b337b8d91dc14af93bcd25",
-          "sha256": "15eaf9697353f7a00c99402af6b67b4540137f69b2ca20c0ff3cc5a40d193f6f",
-          "sha1": "2a8aefba85fdf2ebd19ff82c0780a4af32e7c4a9",
-          "md5": "1c32144af0d2091c78206713dc6e200c"
+          "size": 8110,
+          "sha512": "67122920e0206e4356149fe854129b9a1203d94b592f01e1b477a037c24d0bf2d70049f66a61d9fd9da6273a3ce5cdba7d78e6c9d602dd44c32e28186fff3277",
+          "sha256": "9a5bea8b07ee08d42d5d89b1274d3bbe6b77e7b9848a8336959caad910bf0b11",
+          "sha1": "dd78e7f01a6beaac1105fbd53fec0f6d0c6b587e",
+          "md5": "412210978241f2b6372bcd2c374ab692"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-iossimulatorarm64-0.17.1-metadata.jar",
           "url": "atomicfu-iossimulatorarm64-0.17.1-metadata.jar",
           "size": 261,
-          "sha512": "b185874ee70a43d06088f5bc774329fabf8b48c8bc3f0388bbf5cdad5203f97b7767efd1c066837727210a1ccbd8ff786949020724e3937a235f0ddb3663de4d",
-          "sha256": "43dab76c05388fe469143d542930a736810a7e1dcb710ef678fc7056f41b210c",
-          "sha1": "105d6b649f2cb21dc79bcf1d2c0eb0ace2c42d83",
-          "md5": "1db3af230ccfe2e206bcf4b5b8664b80"
+          "sha512": "6e297da22dff7fd19e57a96e669e907dc0370475690a123d102d1a6abfd4db8ea284030d1c4135d5c0f7bfcf9a6a1c3f97a91d8c35171b625ccbf175b467c7f0",
+          "sha256": "f02dcb072052a9fba5720bdb6acbe669207c65b23aacdf1224d8da5b0367bf9d",
+          "sha1": "9b3da9708e045dbb34d534f8e90e09580f344066",
+          "md5": "e93991e6f08c0e947f86ad795dfc41db"
         }
       ]
     }
