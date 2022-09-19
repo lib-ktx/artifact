@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "jy3b4wwodfdr3emz5j4fb7hrxa"
+      "buildId": "npeend7ulrfmbfalu64lgu4l4y"
     }
   },
   "variants": [
@@ -47,11 +47,11 @@
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-watchossimulatorarm64-0.17.2-cinterop-interop.klib",
-          "size": 8166,
-          "sha512": "8d00414a84ca3d5b54f30da7c25bec79a47fec76d05c096a50521120439bcf0c447805f68c0fd65d4b4f0ab46e886ea3a40c59b8bf2dfb6536b2ca40f8d13c67",
-          "sha256": "872ff649aff34a6e2b841231c13fd9b362c0ba43b1990774223abe2ab25f1c54",
-          "sha1": "26d9e52850446e05e2f04919146531123172c809",
-          "md5": "4d20a735a7d8dd6d0ade0327d1c1626e"
+          "size": 8164,
+          "sha512": "834039cacd0e837232ede5701783ab6933b3ae1a3521913ffb8e6c1d0735365b2be33828da6799cf6fa6e6d00b3d3b78908afc702b4199eb518548475b65aa3d",
+          "sha256": "38f8ed0f6f528d8a6141ca3cafa024a17282092755b1cb9392b0a2cf0cdf921a",
+          "sha1": "09b1a7abf17dddbecac361725ddecfbad8e9240f",
+          "md5": "9a609769d16bdb828e92f9de941380a6"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-watchossimulatorarm64-0.17.2-metadata.jar",
           "url": "atomicfu-watchossimulatorarm64-0.17.2-metadata.jar",
           "size": 261,
-          "sha512": "57cb9fe8c5842be59b05e5f1a6b2baa120c281a1f5270c9043fd872a4143886c098865aebcdb9fd31c71e44d6f1f8356406d093495dccca2aa82b3e7ea86b21a",
-          "sha256": "c8fdd6daebdd63d2748df15c0a36e0d7b3d0524d94bdf465e0ae6767988b0431",
-          "sha1": "2617731981e4501b1ce9afce655dc92fd1e61cf6",
-          "md5": "a9c8d3d06ceaa6b7263c8022421a65d5"
+          "sha512": "c11ebf5936b83ca968ddd14d84835dd01a613daf3f6cfe4b1769986e0621aa6694eeba2075b24df1dbe0083de4f892ea23b67109c25c66d0be2d7741f36d2fe1",
+          "sha256": "7ab3c33e473dd571f3eebbc01eacc55b7f1ac4e2c02af5be88c2e4aae60aa228",
+          "sha1": "ff769530256d678e26a85a848017b8ca6553538b",
+          "md5": "c6c189f86287cf757abfe2a0e1d8c6ef"
         }
       ]
     }

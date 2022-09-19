@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "jy3b4wwodfdr3emz5j4fb7hrxa"
+      "buildId": "npeend7ulrfmbfalu64lgu4l4y"
     }
   },
   "variants": [
@@ -48,10 +48,10 @@
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-watchosx64-0.17.2-cinterop-interop.klib",
           "size": 8030,
-          "sha512": "eba81656067423a559be40467e24af58171eddaa4fd12003dde4705c0f5ecef57f18ab8ca037df2cc8e23e06937928b8398f9685492f14a12ec64b8972433b26",
-          "sha256": "3f14ae403366bd678e3e0f30edd4f4d037360e401919ed634028edd058430226",
-          "sha1": "dbc3f79a3c51d4bbd547096495b9ffd35c0912fb",
-          "md5": "724c7a8185a89488472e4faf378426f8"
+          "sha512": "3aa52d9cd2b18cfab3c0c734352edc8e354f57acff5b76aa6af2cdfae8a5da9025fd53768d113096721e434879510b88322cd37374bcaebcf1cb22395607701c",
+          "sha256": "387b8f685476252bcfbbde4591dd152901b1dbc212f6c7745e77ee1d97808d28",
+          "sha1": "eae7d5d2a2daaced79f928e1ed32638bfb57ab9b",
+          "md5": "3d8374b993a7656f52a528daeae4bfa5"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-watchosx64-0.17.2-metadata.jar",
           "url": "atomicfu-watchosx64-0.17.2-metadata.jar",
           "size": 261,
-          "sha512": "887c526c85b50ffa285b6ca941e6e2224c54c30fd7cf7dbe19441839ef71935b21de2a8092e732ffda3aa27c7b82d0581cbb64ce9de19660230b69e44c812a6a",
-          "sha256": "0ead5c322b1092a4fa411585ff4707033408931a375b2d62742592f0e327d97d",
-          "sha1": "30258c0da7dab55296ac22e05d39f694b10a5a29",
-          "md5": "5119ed6a5eb8ee7e420ef853d2e18d39"
+          "sha512": "ea093d5da4073bde65bf2614834a7ac4d18ea60a622133f224df1c265f2079b48fbf615e961f92ae3d557508f72d0e8765f55239b3bf2e0cb6c649f931c99eac",
+          "sha256": "e9034f96f1343c45029dab53c8c62d86aa17fa81c0fff705c39f75e1bfb51902",
+          "sha1": "c2af878c75c2b530ef111bc943b5f812ff8d653d",
+          "md5": "7c96cb4f70213a405cb375ddff37bacd"
         }
       ]
     }

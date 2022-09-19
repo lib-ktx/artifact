@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "jy3b4wwodfdr3emz5j4fb7hrxa"
+      "buildId": "npeend7ulrfmbfalu64lgu4l4y"
     }
   },
   "variants": [
@@ -47,11 +47,11 @@
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-iossimulatorarm64-0.17.2-cinterop-interop.klib",
-          "size": 8111,
-          "sha512": "76867624d849252fe75b9ced163113c7d71937fa423db50a095aa52bd6f5435bb60463906fef7f74a46269c7f8cd2facb9b0b023c2af0dbc0e8e6c5a30318f61",
-          "sha256": "de4c2e310db7ba04767b6e2583eaa10d01567a2d5671391bb707515a8c3e8e1e",
-          "sha1": "1bb5f43ae7c56ce0d9dcad004ca7d837382b37aa",
-          "md5": "2f360d802764820e803fe8b0916da5a0"
+          "size": 8113,
+          "sha512": "4b6d4dc5975a8b684077b26b253ec2a9c7876d303ec4ef5f03f337087966a5241fd78468aec2ea4a78b5bbaf8842ed9ab7d26e3d8466ae6845ec665e9492d3c5",
+          "sha256": "9e6b2ade2309053e4eb8a160c2804820e86e93f7ea032e9ac1c75f3bf018c9e2",
+          "sha1": "347c003c55683adb5a5894db93050fbbb25d652e",
+          "md5": "93cd1de12ace7d989a2d5beca428985d"
         }
       ]
     },
@@ -78,10 +78,10 @@
           "name": "atomicfu-iossimulatorarm64-0.17.2-metadata.jar",
           "url": "atomicfu-iossimulatorarm64-0.17.2-metadata.jar",
           "size": 261,
-          "sha512": "b44cfdf5c264301d167e872cde6e406857ca4c6d50d16f7678dd59d83c3abc9b7be1d8e904f16288a2dd745d133b37cbbcdf50815912a912d58e8b78fc086d91",
-          "sha256": "5e037b24f6c2db9ce18822df306c32e1143e9e94db7c4e9cb4cd11c7e40419cc",
-          "sha1": "c2d96c722fe7ec9c6da56cfe24b89816a21871d0",
-          "md5": "e5fe78631a6e7894784c52a9d78a627f"
+          "sha512": "8a3b9b3beebb4c49bf9d3419a3d15a4030917d6e20d4fc7da0129ef593bffb062daeb68280e08c4bfe4b7f5cc1db868dd420e7462a2dab4d0a0f3ccd529bfca5",
+          "sha256": "92ffde5b76bc1d0500bf9d666d0975d1cb00faa201250fac7ef8fa948da52890",
+          "sha1": "fc31501c63b9979f29e04f7db021c0221501e890",
+          "md5": "7a1f6b6c3629c30542ba500347158586"
         }
       ]
     }
