@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.17.2/atomicfu-0.17.2.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.17.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "jy3b4wwodfdr3emz5j4fb7hrxa"
+    }
+  },
+  "variants": [
+    {
+      "name": "iosSimulatorArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.6.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu.klib",
+          "url": "atomicfu-iossimulatorarm64-0.17.2.klib",
+          "size": 47172,
+          "sha512": "c6c632ebbb8ecfbd5e03c6a365fa0b409bf365634f5ae1bda0f02614f1be4381c9b41e8c43359f6ee6d02c874dbb5f4207df0fc4c1acdb2cbd0286116958f066",
+          "sha256": "9e40476071a20960647279bf71eadaf43d2d87b6af1d13c8f4e66751a967119c",
+          "sha1": "51d9e389294df0a0ece146326e55f1d90924b142",
+          "md5": "5e852ce6e55281cbb5e575075c1c2abb"
+        },
+        {
+          "name": "atomicfu-cinterop-interop.klib",
+          "url": "atomicfu-iossimulatorarm64-0.17.2-cinterop-interop.klib",
+          "size": 8111,
+          "sha512": "76867624d849252fe75b9ced163113c7d71937fa423db50a095aa52bd6f5435bb60463906fef7f74a46269c7f8cd2facb9b0b023c2af0dbc0e8e6c5a30318f61",
+          "sha256": "de4c2e310db7ba04767b6e2583eaa10d01567a2d5671391bb707515a8c3e8e1e",
+          "sha1": "1bb5f43ae7c56ce0d9dcad004ca7d837382b37aa",
+          "md5": "2f360d802764820e803fe8b0916da5a0"
+        }
+      ]
+    },
+    {
+      "name": "iosSimulatorArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.6.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-iossimulatorarm64-0.17.2-metadata.jar",
+          "url": "atomicfu-iossimulatorarm64-0.17.2-metadata.jar",
+          "size": 261,
+          "sha512": "b44cfdf5c264301d167e872cde6e406857ca4c6d50d16f7678dd59d83c3abc9b7be1d8e904f16288a2dd745d133b37cbbcdf50815912a912d58e8b78fc086d91",
+          "sha256": "5e037b24f6c2db9ce18822df306c32e1143e9e94db7c4e9cb4cd11c7e40419cc",
+          "sha1": "c2d96c722fe7ec9c6da56cfe24b89816a21871d0",
+          "md5": "e5fe78631a6e7894784c52a9d78a627f"
+        }
+      ]
+    }
+  ]
+}

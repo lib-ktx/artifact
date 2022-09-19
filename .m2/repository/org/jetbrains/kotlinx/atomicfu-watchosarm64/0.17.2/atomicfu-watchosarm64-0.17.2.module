@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.17.2/atomicfu-0.17.2.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.17.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "jy3b4wwodfdr3emz5j4fb7hrxa"
+    }
+  },
+  "variants": [
+    {
+      "name": "watchosArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "watchos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.6.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu.klib",
+          "url": "atomicfu-watchosarm64-0.17.2.klib",
+          "size": 47118,
+          "sha512": "d13845d3152325fa5c3f7044aa853bb5de2e691a0958945a7874b74d19f601e0911afbbef47b6ec33e72464f0eb30e25177cee1935e2ef50fba65996da900150",
+          "sha256": "c3cc2dbe6deeb9b61d03453a7961d2584cbca6e05e1cf64f569defdbb6c8db84",
+          "sha1": "092569ab18ac9cda017a589509962f0135eb83b6",
+          "md5": "04d0795b4029d9a232a5a4e0e12887a3"
+        },
+        {
+          "name": "atomicfu-cinterop-interop.klib",
+          "url": "atomicfu-watchosarm64-0.17.2-cinterop-interop.klib",
+          "size": 8220,
+          "sha512": "26871f73f14fe4d172892b85b63c02d8c10f49b001ad114e0cee665b86ae35f1f2bba164a4cce5fb1c6bf24e210e6a41015583215c1b97cfc736b95c0b939794",
+          "sha256": "286fae076aa0267e8b9186237699dbaa45313519b61aa404687e9bbacc6fc077",
+          "sha1": "acc18fb9dc40181e1033b45a74c9fca430ef46f0",
+          "md5": "2c4b2682b1e6aa8287721020f85076dc"
+        }
+      ]
+    },
+    {
+      "name": "watchosArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "watchos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.6.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-watchosarm64-0.17.2-metadata.jar",
+          "url": "atomicfu-watchosarm64-0.17.2-metadata.jar",
+          "size": 261,
+          "sha512": "0e1be2acea63b4c6f61efe465b2a48b20f4029128835e7ff16620a1184e55417d12dd8d002a713b76416cfd2549134e3162334f5a77eb3225de1817fca1b8fc7",
+          "sha256": "effa059810b0c26fa94304af60f617cb866c4d79e1c7031550d4421a888ce639",
+          "sha1": "410938c7e25cc2faf59794c4400d7df03448064e",
+          "md5": "41b718c5049afc784c7567f411259bf7"
+        }
+      ]
+    }
+  ]
+}
