@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "q4pykm7rljhiplkel45im63vji"
+      "buildId": "ncloigr4abasfmvjzfiy3jact4"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "atomicfu-jvm-0.17.1.jar",
           "url": "atomicfu-jvm-0.17.1.jar",
           "size": 36304,
-          "sha512": "8d4482ceafb242f9a2b329ef90263aa138bd5ae50642d3266f289f9eb0df4b5826c29c5fed1b928085e056b896f9190e4666f734c1cb64e3a7afb47a84c01534",
-          "sha256": "0c3bea22b8fc8337d54f58a85e82a58c20f1817c68f0c403a9765ad693d2dc69",
-          "sha1": "1e2785b834ca116a3f8c1eeb2172dbd8d0c2582b",
-          "md5": "0820aaa03939c635e4da487c8364f9d9"
+          "sha512": "6df729c45f33374cc2209dd33d1d75c8fd79312e688b9a4941df7714e65450ceaeea285db5bd628603a7e623df40ce783806f40c5b8aece9f7274187cfddd7f2",
+          "sha256": "422f20c9795b00a7df34444baf8dda11a63fe3ab49a6c7d2bbac874426ad6a87",
+          "sha1": "ebcf43bbe5e3f26c87709b4567967bc19f7eab63",
+          "md5": "85634b860c9184aa453ae70bf92d46b9"
         }
       ]
     },
@@ -47,14 +47,14 @@
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-common",
           "version": {
             "requires": "1.6.0"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-common",
+          "module": "kotlin-stdlib",
           "version": {
             "requires": "1.6.0"
           }
@@ -65,10 +65,10 @@
           "name": "atomicfu-jvm-0.17.1.jar",
           "url": "atomicfu-jvm-0.17.1.jar",
           "size": 36304,
-          "sha512": "8d4482ceafb242f9a2b329ef90263aa138bd5ae50642d3266f289f9eb0df4b5826c29c5fed1b928085e056b896f9190e4666f734c1cb64e3a7afb47a84c01534",
-          "sha256": "0c3bea22b8fc8337d54f58a85e82a58c20f1817c68f0c403a9765ad693d2dc69",
-          "sha1": "1e2785b834ca116a3f8c1eeb2172dbd8d0c2582b",
-          "md5": "0820aaa03939c635e4da487c8364f9d9"
+          "sha512": "6df729c45f33374cc2209dd33d1d75c8fd79312e688b9a4941df7714e65450ceaeea285db5bd628603a7e623df40ce783806f40c5b8aece9f7274187cfddd7f2",
+          "sha256": "422f20c9795b00a7df34444baf8dda11a63fe3ab49a6c7d2bbac874426ad6a87",
+          "sha1": "ebcf43bbe5e3f26c87709b4567967bc19f7eab63",
+          "md5": "85634b860c9184aa453ae70bf92d46b9"
         }
       ]
     }

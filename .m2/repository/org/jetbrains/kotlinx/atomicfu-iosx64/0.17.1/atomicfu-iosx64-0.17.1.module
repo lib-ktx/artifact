@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.17.1/atomicfu-0.17.1.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.17.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "ncloigr4abasfmvjzfiy3jact4"
+    }
+  },
+  "variants": [
+    {
+      "name": "iosX64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu.klib",
+          "url": "atomicfu-iosx64-0.17.1.klib",
+          "size": 47146,
+          "sha512": "f37480911576e6cf34cc2fb767628a272bc42883387546f15633c525ecac1c1c6a3f7f3ac0fa59f543ef830a346d464cb97ad3f024291d5da49f0a491c2927b7",
+          "sha256": "20d54773f63615d6415b40dcce08d2e352095ed409b486ddfb9022e32bafd8d7",
+          "sha1": "e45c7d0a43aaec67be281b0d33b5d6cbe34d89bd",
+          "md5": "8762b68c0fd43b82f6b4b6a064afdc37"
+        },
+        {
+          "name": "atomicfu-cinterop-interop.klib",
+          "url": "atomicfu-iosx64-0.17.1-cinterop-interop.klib",
+          "size": 7970,
+          "sha512": "97f4dbf5104ab6806fc6470a432ddd0e0a0e2fda663993869d25c6fd39019de9d317b9e7918f60dc4125488a655eaab7b785d232c7e5dac993a154a4e24aed66",
+          "sha256": "a11777808504a91d4c52affc89207599a473c6379f2864689573d8d4aa552b97",
+          "sha1": "26c85fddfdfdb9b5645097c266eb2587e5b2f7b0",
+          "md5": "4f973d4f1d64baa6a3a7cd2925c03a6d"
+        }
+      ]
+    },
+    {
+      "name": "iosX64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-iosx64-0.17.1-metadata.jar",
+          "url": "atomicfu-iosx64-0.17.1-metadata.jar",
+          "size": 261,
+          "sha512": "cd80fe299738bf0a1c5b07706be656daacc0a7616e6fcfb71af3d0ae4cfcd6cf093cad48162f03547df317c066c45d8213928e15645973c5a7cd9c19814460c3",
+          "sha256": "93b222dc13bf2273b0d2634ffd45ca868d3292dbffbbf2e0530e4c0875161d2d",
+          "sha1": "40240ed51b488221055c04814d398ce9efb6cf1c",
+          "md5": "5ab1e81ba849f1c557154928554cb229"
+        }
+      ]
+    }
+  ]
+}
