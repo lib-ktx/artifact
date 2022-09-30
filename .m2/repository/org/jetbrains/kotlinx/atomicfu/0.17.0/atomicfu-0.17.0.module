@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "ndh7yy5cyfhb3bc3jbhsmeck5a"
+      "buildId": "rqq2r6et3bcmfhcfx5cjirqsmy"
     }
   },
   "variants": [
@@ -36,10 +36,10 @@
           "name": "atomicfu-metadata-0.17.0-all.jar",
           "url": "atomicfu-0.17.0-all.jar",
           "size": 16092,
-          "sha512": "8865ae5427b9153a4991d57ce6146257465070d17969a13b18410f794ded986c02af6e1c61ef2f1bca0864bbdd052e3952f11cbdfa268e117f1ddd1db683df26",
-          "sha256": "5ad356fadf5f20dcf1a7c6ef7a1bb1737922113728c978b6f16955730c56c632",
-          "sha1": "3a1c4a1aeb8f78594fdaa88104b1596a9ab9c7f7",
-          "md5": "150df6cb814f2db1e5706d129fc27037"
+          "sha512": "3bee1ccbb55bc0bbcd9dd0677b1ab457cf56a609ba566845d8575413ad55b7dc0ec4a5c6030251ac01841c932ba849bc23c696ba490af74067b31f8b819a75d0",
+          "sha256": "3494b3fcaa30d265dc5d5a400c650bb3d522951666d8902d62ef4bb63f22e5d2",
+          "sha1": "6995dc1e2dd3bca360d89db8d9540c3b46a575c4",
+          "md5": "ba545b468d6bb478b4c00a8e7f56c6b4"
         }
       ]
     },
