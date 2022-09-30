@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "emhguouifnfdbcxfdrqvnbyvxy"
+      "buildId": "32nufishdzdbtj7oeyc55o2sk4"
     }
   },
   "variants": [
@@ -30,10 +30,10 @@
           "name": "atomicfu-gradle-plugin-0.18.3.jar",
           "url": "atomicfu-gradle-plugin-0.18.3.jar",
           "size": 60682,
-          "sha512": "b2f93d31faccfc5b13f3dceb92ed9a0154a3ebd9d7bc5fca7a30686f59a3b46dc8d4b65347837062b09bc367adb2de83008ca836c13e6e9a629fbb87656d2d35",
-          "sha256": "987d1ad63d319bafaa855e57576a050a2a0dcf0931273dcb00ae9d0f90989d66",
-          "sha1": "d0cf3cf1c88b70d67482f3678bd746529db8bf71",
-          "md5": "556a772408273004cda7046ba3ff9e97"
+          "sha512": "f39ab2c3f5fb4dcc829b2a56c0fc3111a3e6453172dec64677f4380705005ae14c103546c990e4c6a0d65c2bfa38566e3d24374df1814f398140e7778686742b",
+          "sha256": "6949a60f53fc0cab1a0ddb44714b930a1624805ec61c323000e2ba4441d9b9dc",
+          "sha1": "7205cce6b8fc5ea4a0ad441229159e657bc9b4cf",
+          "md5": "5cefc30b597027411325a745eb127c23"
         }
       ]
     },
@@ -74,10 +74,10 @@
           "name": "atomicfu-gradle-plugin-0.18.3.jar",
           "url": "atomicfu-gradle-plugin-0.18.3.jar",
           "size": 60682,
-          "sha512": "b2f93d31faccfc5b13f3dceb92ed9a0154a3ebd9d7bc5fca7a30686f59a3b46dc8d4b65347837062b09bc367adb2de83008ca836c13e6e9a629fbb87656d2d35",
-          "sha256": "987d1ad63d319bafaa855e57576a050a2a0dcf0931273dcb00ae9d0f90989d66",
-          "sha1": "d0cf3cf1c88b70d67482f3678bd746529db8bf71",
-          "md5": "556a772408273004cda7046ba3ff9e97"
+          "sha512": "f39ab2c3f5fb4dcc829b2a56c0fc3111a3e6453172dec64677f4380705005ae14c103546c990e4c6a0d65c2bfa38566e3d24374df1814f398140e7778686742b",
+          "sha256": "6949a60f53fc0cab1a0ddb44714b930a1624805ec61c323000e2ba4441d9b9dc",
+          "sha1": "7205cce6b8fc5ea4a0ad441229159e657bc9b4cf",
+          "md5": "5cefc30b597027411325a745eb127c23"
         }
       ]
     }

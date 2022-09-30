@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "emhguouifnfdbcxfdrqvnbyvxy"
+      "buildId": "32nufishdzdbtj7oeyc55o2sk4"
     }
   },
   "variants": [
@@ -95,10 +95,10 @@
           "name": "atomicfu-transformer-0.18.3.jar",
           "url": "atomicfu-transformer-0.18.3.jar",
           "size": 147058,
-          "sha512": "7add5ee79a3f831c681a35e1f557de14b1299e7256436e0e0fdcfee2bbde7033e7e93d44c828523f7b51597d3ad314965384458b6a543e7c6e55482ffd608c71",
-          "sha256": "efede3e3a6e743575a3b824a5775a1f8f7bfd1c03fa4c839807149b982e632a3",
-          "sha1": "611773bdab35da3961657bf78ec638bb0f94d18a",
-          "md5": "95725bb8fcbaec37f0aefc1712421301"
+          "sha512": "114cc5027a0965a0ca20b0529c17fe92f2e6a82f7f9a58500982b344dec37d9f4f31fb33c586fe77403c02d0a56d3438ab47b69ceef113f7f168f8780120c2e2",
+          "sha256": "60ac9d7aa0401fe84636474180deef2e27994e8f8f1d869b7f0ba6f952315961",
+          "sha1": "81974ce42c5f3540d14f629c7d261b68c84cf546",
+          "md5": "de3ab89fe287f097360736ac957f954b"
         }
       ]
     },
@@ -182,10 +182,10 @@
           "name": "atomicfu-transformer-0.18.3.jar",
           "url": "atomicfu-transformer-0.18.3.jar",
           "size": 147058,
-          "sha512": "7add5ee79a3f831c681a35e1f557de14b1299e7256436e0e0fdcfee2bbde7033e7e93d44c828523f7b51597d3ad314965384458b6a543e7c6e55482ffd608c71",
-          "sha256": "efede3e3a6e743575a3b824a5775a1f8f7bfd1c03fa4c839807149b982e632a3",
-          "sha1": "611773bdab35da3961657bf78ec638bb0f94d18a",
-          "md5": "95725bb8fcbaec37f0aefc1712421301"
+          "sha512": "114cc5027a0965a0ca20b0529c17fe92f2e6a82f7f9a58500982b344dec37d9f4f31fb33c586fe77403c02d0a56d3438ab47b69ceef113f7f168f8780120c2e2",
+          "sha256": "60ac9d7aa0401fe84636474180deef2e27994e8f8f1d869b7f0ba6f952315961",
+          "sha1": "81974ce42c5f3540d14f629c7d261b68c84cf546",
+          "md5": "de3ab89fe287f097360736ac957f954b"
         }
       ]
     }

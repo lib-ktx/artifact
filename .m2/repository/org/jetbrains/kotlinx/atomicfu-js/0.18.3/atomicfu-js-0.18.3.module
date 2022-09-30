@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "emhguouifnfdbcxfdrqvnbyvxy"
+      "buildId": "32nufishdzdbtj7oeyc55o2sk4"
     }
   },
   "variants": [
@@ -29,10 +29,10 @@
           "name": "atomicfu-jslegacy-0.18.3.jar",
           "url": "atomicfu-js-0.18.3.jar",
           "size": 13503,
-          "sha512": "990a8f989e1ab71cd22c00a94e8497a344caf5b0a87f7c163f795f7241e5033f6f5864d8f3c26b597cdc70d5736178b8e461b38fb47bf52d1a3ef29fd27f56fc",
-          "sha256": "90da42c810b9fd90f4e80277c60d2658328886ad3d7e4bda3bff6b14e75abe48",
-          "sha1": "f3735717d596abe0d092be90a8e107bc0ec0740e",
-          "md5": "46608a91b5a9a0797f2ee8e3066f7a18"
+          "sha512": "715a174318e97d99040f305566f8e20c93b836ce9315340b68ce7b275bfb26ac12a6ed0525dc1285985461ed30284f832af20f572664ee3186862be0d00f03fa",
+          "sha256": "353c4f63370c31b08fbd23f5942c9c20e916b510b8ceadd9d60295d59e1d25c6",
+          "sha1": "8f9b2e003471333caaa231c89b02f7b69bb6e8ca",
+          "md5": "de5c533d2c7a291c081577ce52319826"
         }
       ]
     },
@@ -65,10 +65,10 @@
           "name": "atomicfu-jslegacy-0.18.3.jar",
           "url": "atomicfu-js-0.18.3.jar",
           "size": 13503,
-          "sha512": "990a8f989e1ab71cd22c00a94e8497a344caf5b0a87f7c163f795f7241e5033f6f5864d8f3c26b597cdc70d5736178b8e461b38fb47bf52d1a3ef29fd27f56fc",
-          "sha256": "90da42c810b9fd90f4e80277c60d2658328886ad3d7e4bda3bff6b14e75abe48",
-          "sha1": "f3735717d596abe0d092be90a8e107bc0ec0740e",
-          "md5": "46608a91b5a9a0797f2ee8e3066f7a18"
+          "sha512": "715a174318e97d99040f305566f8e20c93b836ce9315340b68ce7b275bfb26ac12a6ed0525dc1285985461ed30284f832af20f572664ee3186862be0d00f03fa",
+          "sha256": "353c4f63370c31b08fbd23f5942c9c20e916b510b8ceadd9d60295d59e1d25c6",
+          "sha1": "8f9b2e003471333caaa231c89b02f7b69bb6e8ca",
+          "md5": "de5c533d2c7a291c081577ce52319826"
         }
       ]
     },
@@ -100,11 +100,11 @@
         {
           "name": "atomicfu-jsir-0.18.3.klib",
           "url": "atomicfu-js-0.18.3.klib",
-          "size": 33015,
-          "sha512": "e1779bf0805fee2fa292493d5f3060c8acddebc1e931a023a344b18ccabc89f8c816167753251091216e9c85916a30001c96e1b4d3a32caa8b578e7a61209ebc",
-          "sha256": "d3d1b3f7a88f4dbfdd96808daf17a87d31d47475dc45a6ba7e703e1546028ce7",
-          "sha1": "9960109ef2ace47bfa874addca11d2204709093c",
-          "md5": "0d9fd379754f035f72bedefd7ad60ecf"
+          "size": 33017,
+          "sha512": "ea45f084226a8cc953293b33487e1c489ddb3bf091d306da2ccc238025512a085d7687897ee2379beb3cac5031c80636a217d0ff5ecf454afb43b76c668dc6cb",
+          "sha256": "0d5fc24f6da1ca54e9f6b7bae9528fc6a46b56fd46d4a9d35f106782fed92b98",
+          "sha1": "35dc6195f9319c918d6cce85bee68196d7a96511",
+          "md5": "35392b701f45900904dec5de5559f03f"
         }
       ]
     },
@@ -136,11 +136,11 @@
         {
           "name": "atomicfu-jsir-0.18.3.klib",
           "url": "atomicfu-js-0.18.3.klib",
-          "size": 33015,
-          "sha512": "e1779bf0805fee2fa292493d5f3060c8acddebc1e931a023a344b18ccabc89f8c816167753251091216e9c85916a30001c96e1b4d3a32caa8b578e7a61209ebc",
-          "sha256": "d3d1b3f7a88f4dbfdd96808daf17a87d31d47475dc45a6ba7e703e1546028ce7",
-          "sha1": "9960109ef2ace47bfa874addca11d2204709093c",
-          "md5": "0d9fd379754f035f72bedefd7ad60ecf"
+          "size": 33017,
+          "sha512": "ea45f084226a8cc953293b33487e1c489ddb3bf091d306da2ccc238025512a085d7687897ee2379beb3cac5031c80636a217d0ff5ecf454afb43b76c668dc6cb",
+          "sha256": "0d5fc24f6da1ca54e9f6b7bae9528fc6a46b56fd46d4a9d35f106782fed92b98",
+          "sha1": "35dc6195f9319c918d6cce85bee68196d7a96511",
+          "md5": "35392b701f45900904dec5de5559f03f"
         }
       ]
     }
