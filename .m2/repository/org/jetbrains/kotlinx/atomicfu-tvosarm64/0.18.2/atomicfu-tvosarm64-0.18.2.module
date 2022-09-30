@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.18.2/atomicfu-0.18.2.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.18.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "4ihamxegiffi7pbjhoehwessw4"
+    }
+  },
+  "variants": [
+    {
+      "name": "tvosArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "tvos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu.klib",
+          "url": "atomicfu-tvosarm64-0.18.2.klib",
+          "size": 47084,
+          "sha512": "b0795f61a8d98b0c4622a6728f01bc78c34f5fa53f163f2be3118e3650aa35eb3b861a038652be45e6c5e1097a48bdcccca987f9d8a9c2c78d8346652a330816",
+          "sha256": "9611d88ca99e82700a32f5d58d123194c43718a2ed59afdb17c41e932aaa281b",
+          "sha1": "209304e7f4cee84709549df1df99f04e33e1ce19",
+          "md5": "48240c5dc90ed2561c2b340fc8dbbb2c"
+        },
+        {
+          "name": "atomicfu-cinterop-interop.klib",
+          "url": "atomicfu-tvosarm64-0.18.2-cinterop-interop.klib",
+          "size": 7998,
+          "sha512": "de8e0e29daa77f15c7652ea2502b53f2297ad86dc064f24414f981377f54200c018ef219ea613d61f0ad32c220da6655a4abc16be5dd76ab53fd9b88c66feab5",
+          "sha256": "d3a406232f926eaec76d0e5158d2d858e6e7ba2ab2481d2521ed5387737153e7",
+          "sha1": "40a9462c41c189ccda50a2b9cdbc3818d419f911",
+          "md5": "4ba57351faef594260d3f49063561122"
+        }
+      ]
+    },
+    {
+      "name": "tvosArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "tvos_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-tvosarm64-0.18.2-metadata.jar",
+          "url": "atomicfu-tvosarm64-0.18.2-metadata.jar",
+          "size": 261,
+          "sha512": "6065a912f254a1b11f4d91fd95a25f96a2585dc5f9cc7258d0bb46525d385c30c2c26138b71ff2042d525b68247be5b605a46492ad97b0f8d33a8122e7cc15fb",
+          "sha256": "448a3073e5ccbed0129f0bba8332274c05ac336079b11f31a347fde265b884fb",
+          "sha1": "518143232bbbd17be6f8a2b4b0704f41b5c8a2fa",
+          "md5": "611374e1357cf0926b5b3e50772b62db"
+        }
+      ]
+    }
+  ]
+}
