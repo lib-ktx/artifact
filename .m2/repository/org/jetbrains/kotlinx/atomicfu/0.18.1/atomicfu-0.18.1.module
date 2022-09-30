@@ -11,7 +11,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "qq6ybzj53ngedhfakuj2xebls4"
+      "buildId": "wtel5envxjc5dbnec4576waehq"
     }
   },
   "variants": [
@@ -35,11 +35,11 @@
         {
           "name": "atomicfu-metadata-0.18.1-all.jar",
           "url": "atomicfu-0.18.1-all.jar",
-          "size": 16055,
-          "sha512": "16d7e32f34e76fe745dd5577ba62da315bd73a6674ecfa3db960a497e574b90047f79008a9965f6e31e2f73fdde28ada2051a8d2480a0e2cd8e420860221ed53",
-          "sha256": "c827d2e048c072c5a16ef36b2eaef1a92f4747cb8b7a890066879125a693c321",
-          "sha1": "d4f6111124bf6e76febe99af83a994a4799f3192",
-          "md5": "1ca0bfc986a787616d5605d19ca3c5fd"
+          "size": 16062,
+          "sha512": "fb9082b2b3c7742facbd4f55febfc33ac69317ec252a307792402df29d9caf5ef478a36c176022ba93449a2645c149bf9a409febe851ca1de162e36b3efed4ee",
+          "sha256": "958f2f00c12ee326b5848958354f0f7c87a74b1ca8ba2cb8f6510a751a019eaf",
+          "sha1": "a45a9a99bbf9a7fc02ab6086b288421b3f4b9d2e",
+          "md5": "46dcb27033e95fda39e1e075ea5c5f3e"
         }
       ]
     },
@@ -55,10 +55,10 @@
           "name": "atomicfu-0.18.1.jar",
           "url": "atomicfu-0.18.1.jar",
           "size": 9299,
-          "sha512": "600389a41205653cdce5182433a615c26a4bba26af2aaef319d730feb1fee6f1bf5d53700c5d1bba05a36206e6cc033b6f6edd3e6f9db9ab18022449784daef2",
-          "sha256": "532d5021770f50c442c95a7085f408a93938b6d4713e64dfcb85c23f0c6cb31d",
-          "sha1": "207bf8fabc56d1e965a2fca7ccd6e540812fe81b",
-          "md5": "918d4cdddd00827bc775b0d131bc70eb"
+          "sha512": "0ed14cb7efc6d505bc84de93d147ed0f2a009b144d64b14e2a524b4d27bedc5cd7e1c23bbb2db356998148fb93d37ffb1e06b939b011f8398767f4242bcd541c",
+          "sha256": "fed6923b1cff30b4f3d107706e966ff10d492a5dddce960349b5a0501413c930",
+          "sha1": "9ebcae7ad68754948791665a79aed650000a9f3d",
+          "md5": "3780e1360a5f04d66b4cff57fe5ab014"
         }
       ]
     },
@@ -129,6 +129,7 @@
     {
       "name": "iosArm32ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "ios_arm32",
@@ -144,6 +145,7 @@
     {
       "name": "iosArm32MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "ios_arm32",
@@ -159,6 +161,7 @@
     {
       "name": "iosArm64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "ios_arm64",
@@ -174,6 +177,7 @@
     {
       "name": "iosArm64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "ios_arm64",
@@ -189,6 +193,7 @@
     {
       "name": "iosSimulatorArm64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
@@ -204,6 +209,7 @@
     {
       "name": "iosSimulatorArm64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
@@ -219,6 +225,7 @@
     {
       "name": "iosX64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "ios_x64",
@@ -234,6 +241,7 @@
     {
       "name": "iosX64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "ios_x64",
@@ -371,7 +379,6 @@
     {
       "name": "linuxMips32ApiElements-published",
       "attributes": {
-        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "linux_mips32",
@@ -387,7 +394,6 @@
     {
       "name": "linuxMips32MetadataElements-published",
       "attributes": {
-        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "linux_mips32",
@@ -403,7 +409,6 @@
     {
       "name": "linuxMipsel32ApiElements-published",
       "attributes": {
-        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "linux_mipsel32",
@@ -419,7 +424,6 @@
     {
       "name": "linuxMipsel32MetadataElements-published",
       "attributes": {
-        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "linux_mipsel32",
@@ -451,6 +455,7 @@
     {
       "name": "macosArm64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "macos_arm64",
@@ -466,6 +471,7 @@
     {
       "name": "macosArm64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "macos_arm64",
@@ -481,6 +487,7 @@
     {
       "name": "macosX64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "macos_x64",
@@ -496,6 +503,7 @@
     {
       "name": "macosX64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "macos_x64",
@@ -543,6 +551,7 @@
     {
       "name": "tvosArm64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "tvos_arm64",
@@ -558,6 +567,7 @@
     {
       "name": "tvosArm64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "tvos_arm64",
@@ -573,6 +583,7 @@
     {
       "name": "tvosSimulatorArm64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "tvos_simulator_arm64",
@@ -588,6 +599,7 @@
     {
       "name": "tvosSimulatorArm64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "tvos_simulator_arm64",
@@ -603,6 +615,7 @@
     {
       "name": "tvosX64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "tvos_x64",
@@ -618,6 +631,7 @@
     {
       "name": "tvosX64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "tvos_x64",
@@ -633,6 +647,7 @@
     {
       "name": "watchosArm32ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "watchos_arm32",
@@ -648,6 +663,7 @@
     {
       "name": "watchosArm32MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "watchos_arm32",
@@ -663,6 +679,7 @@
     {
       "name": "watchosArm64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "watchos_arm64",
@@ -678,6 +695,7 @@
     {
       "name": "watchosArm64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "watchos_arm64",
@@ -693,6 +711,7 @@
     {
       "name": "watchosSimulatorArm64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "watchos_simulator_arm64",
@@ -708,6 +727,7 @@
     {
       "name": "watchosSimulatorArm64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "watchos_simulator_arm64",
@@ -723,6 +743,7 @@
     {
       "name": "watchosX64ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "watchos_x64",
@@ -738,6 +759,7 @@
     {
       "name": "watchosX64MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "watchos_x64",
@@ -753,6 +775,7 @@
     {
       "name": "watchosX86ApiElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.native.target": "watchos_x86",
@@ -768,6 +791,7 @@
     {
       "name": "watchosX86MetadataElements-published",
       "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
         "org.gradle.category": "library",
         "org.gradle.usage": "kotlin-metadata",
         "org.jetbrains.kotlin.native.target": "watchos_x86",

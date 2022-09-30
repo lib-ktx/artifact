@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../atomicfu/0.18.1/atomicfu-0.18.1.module",
+    "group": "org.jetbrains.kotlinx",
+    "module": "atomicfu",
+    "version": "0.18.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "wtel5envxjc5dbnec4576waehq"
+    }
+  },
+  "variants": [
+    {
+      "name": "tvosSimulatorArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "tvos_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu.klib",
+          "url": "atomicfu-tvossimulatorarm64-0.18.1.klib",
+          "size": 47173,
+          "sha512": "9afa1d1dfbbbc09ed1bd5c43b0c0a3ff7db2df17021a60c4a24a7a9a15db6afb690366f51ded98be8eecc2ffddddfb9c98c4891bad4f743f5dd096af1b6dc54c",
+          "sha256": "1c210c0d0ca9aab162e24b12bc5fbb7477f5f7347c0d9687ffc7b9974b3b2189",
+          "sha1": "3eb241519afaf330b3787709177b92d738b681dd",
+          "md5": "a41dcc2250146628d07fdb60bfc8d732"
+        },
+        {
+          "name": "atomicfu-cinterop-interop.klib",
+          "url": "atomicfu-tvossimulatorarm64-0.18.1-cinterop-interop.klib",
+          "size": 8121,
+          "sha512": "6f696c271178137c7bc89ceeefa2dcd3a49ab47cba27273167799922362fe41916a734980cc150537ca08600eb08d106d8ef507dd821c818e89324c5e601a9bc",
+          "sha256": "19d72ddbda38661ae81023c29f89a0749a1580af3a7481cc8bd05339d16f2a22",
+          "sha1": "198d1a8e17a11002c07d0c3f75e8c0539d15bc7a",
+          "md5": "cf6918465e3fded772b4bddb69203e29"
+        }
+      ]
+    },
+    {
+      "name": "tvosSimulatorArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "tvos_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "atomicfu-tvossimulatorarm64-0.18.1-metadata.jar",
+          "url": "atomicfu-tvossimulatorarm64-0.18.1-metadata.jar",
+          "size": 261,
+          "sha512": "39027a853ee55737353a175e97a0cbafb49b1d113454be0ff8dcaaf3e6d748acec88d3e41352a19a203e6f9896fb2db87efe8628a9eefda68f9722b5b9db0292",
+          "sha256": "8b59db760bacabfe4e1806a8dbcdb610d7898cd4798197f1ba61ee6d640150bb",
+          "sha1": "9b27ee63bad89b4fc4b63491e020904557890720",
+          "md5": "74f7351a002a6dd08b7a763e96108200"
+        }
+      ]
+    }
+  ]
+}

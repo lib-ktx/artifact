@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.8.1",
-      "buildId": "qq6ybzj53ngedhfakuj2xebls4"
+      "buildId": "wtel5envxjc5dbnec4576waehq"
     }
   },
   "variants": [
@@ -39,19 +39,19 @@
           "name": "atomicfu.klib",
           "url": "atomicfu-androidnativex64-0.18.1.klib",
           "size": 47044,
-          "sha512": "464b435f2b7c7e80d53559a08c216885a2a3b85c913a23617c3db9077f9b03f76b0acc1fb01d8f61616baa3c191d68d2c140440cf1fe626f511945fe6c1100f0",
-          "sha256": "88151f1091c33c6dc2e6b09da75ceed62ff6afc3709230b26225fd70eb2d0527",
-          "sha1": "81c56e1d958bfa895a0014acbf658c127eab8e22",
-          "md5": "14a8c94dc9a54549adbf6d81234eb49c"
+          "sha512": "083068babb932d112ccd0adf246f7c468b1d7d915368fd88330b83906e77005365b30f75d415c71b57c74f9e95fd30fc074e973e82bc836540a2bad0b14a5aa4",
+          "sha256": "72e1c36d817f414575a72589a5f5efa4c6eac09c421403563780d55f9bf67f50",
+          "sha1": "50b201776ee709cd7d23eb4a3ed0991589889888",
+          "md5": "6d47b4227305eab31c0842bc2e1dd46d"
         },
         {
           "name": "atomicfu-cinterop-interop.klib",
           "url": "atomicfu-androidnativex64-0.18.1-cinterop-interop.klib",
-          "size": 7691,
-          "sha512": "9cea041b2e9dbb02ad5f841f2642ada1dce830294f1ba80b72230b96cce91a047b8f5f0722cd8115a82fd5354565e2bdf8f8673d4e4550ef6ec8659357164639",
-          "sha256": "f77ab13b6255f72bb45b68d9f4b68380ba0b7e44b7a34d9d6d0fcb8b6a6cb9af",
-          "sha1": "7e2ee5a0412b0e65861fc30454ff2f82d74323b2",
-          "md5": "ce5b4bfe41190311a84a92e9f977886c"
+          "size": 7812,
+          "sha512": "2cf47ccbfa6281e2f24475b4bf4b7166dc713ea2f4c4a045e89ba09549374bd42bc98855e090cae6d0f329ffeb701ab97b8242e02e809fc56ed0727660134cc3",
+          "sha256": "fdb3dc4854c946a5e588250a583f820c7dfac6043eff7b462525ef4a521728f8",
+          "sha1": "b41623d6feb6eca696c35e630ae272beb279ef68",
+          "md5": "d7b6d109916cc9e155d52e86f284a973"
         }
       ]
     }
